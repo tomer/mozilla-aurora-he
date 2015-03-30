@@ -1,0 +1,123 @@
+#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this file,# You can obtain one at http://mozilla.org/MPL/2.0/.
+#. extracted from l10n/en-US/webapprt/webapprt/webapp.properties, l10n/he/webapprt/webapprt/webapp.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#. # LOCALIZATION NOTE: These are localized strings for the webapp runtime,# which loads a webapp in a separate process from Firefox.  Webapps loaded# in this way have very little application chrome, but the runtime does# provide them with some default functionality, like the standard OS# menus/menuitems.
+#. # LOCALIZATION NOTE (quitApplicationCmdMac.label): %S will be replaced with
+#. # the name of the webapp.
+#: quitApplicationCmdMac.label
+msgid "Quit %S"
+msgstr "יציאה מ־%S"
+
+#. # LOCALIZATION NOTE (hideApplicationCmdMac.label): %S will be replaced with
+#. # the name of the webapp.
+#: hideApplicationCmdMac.label
+msgid "Hide %S"
+msgstr "הסתרת %S"
+
+#. # LOCALIZATION NOTE (geolocation.title): %S will be replaced with the name of
+#. # the webapp.
+#: geolocation.title
+msgid "%S - Share Location"
+msgstr "%S - שיתוף מיקום"
+
+#: geolocation.description
+msgid "Do you want to share your location?"
+msgstr "האם ברצונך לשתף את המיקום שלך?"
+
+#: geolocation.allow
+msgid "Share Location"
+msgstr "שיתוף מיקום"
+
+#: geolocation.deny
+msgid "Don't Share"
+msgstr "לא לשתף"
+
+#: geolocation.remember
+msgctxt "geolocation.remember"
+msgid "Remember my choice"
+msgstr "לזכור את הבחירה שלי"
+
+#. # LOCALIZATION NOTE (desktop-notification.title): %S will be replaced with the
+#. # name of the webapp.
+#: desktop-notification.title
+msgid "%S - Show notifications"
+msgstr "%S - הצגת התראות"
+
+#: desktop-notification.description
+msgid "Do you want to allow notifications?"
+msgstr "האם ברצונך לאפשר התראות?"
+
+#: desktop-notification.allow
+msgid "Show"
+msgstr "הצגת התראות"
+
+#: desktop-notification.deny
+msgid "Don't show"
+msgstr "לא להציג"
+
+#: desktop-notification.remember
+msgctxt "desktop-notification.remember"
+msgid "Remember my choice"
+msgstr "לזכור את הבחירה שלי"
+
+#. # LOCALIZATION NOTE (webapps.install.title): %S will be replaced with the name
+#. # of the webapp being installed.
+#: webapps.install.title
+msgid "Install %S"
+msgstr "התקנת %S"
+
+#. # LOCALIZATION NOTE (webapps.install.description): %S will be replaced with the
+#. # name of the webapp being installed.
+#: webapps.install.description
+msgid "Do you want to install %S?"
+msgstr "האם ברצונך להתקין את %S?"
+
+#: webapps.install.install
+msgid "Install App"
+msgstr "התקנת יישום"
+
+#: webapps.install.dontinstall
+msgid "Don't Install"
+msgstr "לא להתקין"
+
+#. # LOCALIZATION NOTE (webapps.uninstall.title): %S will be replaced with the name
+#. # of the webapp being uninstalled.
+#: webapps.uninstall.title
+msgid "Uninstall %S"
+msgstr "הסרת %S"
+
+#. # LOCALIZATION NOTE (webapps.uninstall.description): %S will be replaced with the
+#. # name of the webapp being uninstalled.
+#: webapps.uninstall.description
+msgid "Do you want to uninstall %S?"
+msgstr "האם ברצונך להסיר את %S?"
+
+#: webapps.uninstall.uninstall
+msgid "Uninstall App"
+msgstr "הסרת יישום"
+
+#: webapps.uninstall.dontuninstall
+msgid "Don't Uninstall"
+msgstr "לא להסיר"
+
+#: paymentDialog.title
+msgid "Payment"
+msgstr "תשלומים"
+
+#: paymentDialog.message
+msgid "Which payment provider do you want to use?"
+msgstr "באיזה ספק תשלומים ברצונך להשתמש?"

@@ -1,0 +1,1046 @@
+#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this file,# You can obtain one at http://mozilla.org/MPL/2.0/.
+#. extracted from l10n/en-US/dom/chrome/accessibility/AccessFu.properties, l10n/he/dom/chrome/accessibility/AccessFu.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#. # Screen reader started/stopped
+#: screenReaderStarted
+msgid "Screen reader started"
+msgstr "קורא המסך הופעל"
+
+#: screenReaderStopped
+msgid "Screen reader stopped"
+msgstr "קורא המסך הופסק"
+
+#. # Roles
+#: menubar
+msgctxt "menubar"
+msgid "menu bar"
+msgstr "שורת תפריט"
+
+#: scrollbar
+msgctxt "scrollbar"
+msgid "scroll bar"
+msgstr "פס גלילה"
+
+#: grip
+msgctxt "grip"
+msgid "grip"
+msgstr "ידית"
+
+#: alert
+msgctxt "alert"
+msgid "alert"
+msgstr "התראה"
+
+#: menupopup
+msgctxt "menupopup"
+msgid "menu popup"
+msgstr "תפריט קופץ"
+
+#: document
+msgctxt "document"
+msgid "document"
+msgstr "מסמך"
+
+#: pane
+msgctxt "pane"
+msgid "pane"
+msgstr "לוח"
+
+#: dialog
+msgctxt "dialog"
+msgid "dialog"
+msgstr "תיבת דיאלוג"
+
+#: separator
+msgctxt "separator"
+msgid "separator"
+msgstr "מפריד"
+
+#: toolbar
+msgctxt "toolbar"
+msgid "toolbar"
+msgstr "סרגל כלים"
+
+#: statusbar
+msgctxt "statusbar"
+msgid "status bar"
+msgstr "שורת מצב"
+
+#: table
+msgid "table"
+msgstr "טבלה"
+
+#: columnheader
+msgctxt "columnheader"
+msgid "column header"
+msgstr "כותרת עמודה"
+
+#: rowheader
+msgctxt "rowheader"
+msgid "row header"
+msgstr "כותרת שורה"
+
+#: column
+msgctxt "column"
+msgid "column"
+msgstr "עמודה"
+
+#: row
+msgctxt "row"
+msgid "row"
+msgstr "שורה"
+
+#: cell
+msgctxt "cell"
+msgid "cell"
+msgstr "תא"
+
+#: link
+msgid "link"
+msgstr "קישור"
+
+#: list
+msgctxt "list"
+msgid "list"
+msgstr "רשימה"
+
+#: listitem
+msgctxt "listitem"
+msgid "list item"
+msgstr "פריט רשימה"
+
+#: outline
+msgctxt "outline"
+msgid "outline"
+msgstr "מתאר"
+
+#: outlineitem
+msgctxt "outlineitem"
+msgid "outline item"
+msgstr "פריט מתאר"
+
+#: pagetab
+msgctxt "pagetab"
+msgid "tab"
+msgstr "לשונית דף"
+
+#: propertypage
+msgctxt "propertypage"
+msgid "property page"
+msgstr "דף מאפיינים"
+
+#: graphic
+msgctxt "graphic"
+msgid "graphic"
+msgstr "גרפיקה"
+
+#: pushbutton
+msgid "button"
+msgstr "כפתור"
+
+#: checkbutton
+msgctxt "checkbutton"
+msgid "check button"
+msgstr "כפתור סימון"
+
+#: radiobutton
+msgctxt "radiobutton"
+msgid "radio button"
+msgstr "כפתור בורר"
+
+#: combobox
+msgctxt "combobox"
+msgid "combo box"
+msgstr "תיבת בחירה מרובה"
+
+#: progressbar
+msgctxt "progressbar"
+msgid "progress bar"
+msgstr "פס התקדמות"
+
+#: slider
+msgctxt "slider"
+msgid "slider"
+msgstr "מחוון"
+
+#: spinbutton
+msgctxt "spinbutton"
+msgid "spin button"
+msgstr "כפתור סיבוב"
+
+#: diagram
+msgctxt "diagram"
+msgid "diagram"
+msgstr "דיאגרמה"
+
+#: animation
+msgctxt "animation"
+msgid "animation"
+msgstr "אנימציה"
+
+#: equation
+msgctxt "equation"
+msgid "equation"
+msgstr "משוואה"
+
+#: buttonmenu
+msgctxt "buttonmenu"
+msgid "button menu"
+msgstr "כפתור תפריט"
+
+#: whitespace
+msgctxt "whitespace"
+msgid "white space"
+msgstr "רווח לבן"
+
+#: pagetablist
+msgctxt "pagetablist"
+msgid "tab list"
+msgstr "רשימת לשוניות דף"
+
+#: canvas
+msgctxt "canvas"
+msgid "canvas"
+msgstr "קאנבאס"
+
+#: checkmenuitem
+msgctxt "checkmenuitem"
+msgid "check menu item"
+msgstr "פריט תפריט סימון"
+
+#: label
+msgctxt "label"
+msgid "label"
+msgstr "תווית"
+
+#: passwordtext
+msgid "password text"
+msgstr "מלל ססמה"
+
+#: radiomenuitem
+msgctxt "radiomenuitem"
+msgid "radio menu item"
+msgstr "פריט תפריט רדיו"
+
+#: textcontainer
+msgctxt "textcontainer"
+msgid "text container"
+msgstr "מכולת מלל"
+
+#: togglebutton
+msgctxt "togglebutton"
+msgid "toggle button"
+msgstr "כפתור דו־מצבי"
+
+#: treetable
+msgctxt "treetable"
+msgid "tree table"
+msgstr "טבלת עץ"
+
+#: header
+msgctxt "header"
+msgid "header"
+msgstr "כותרת תחתונה"
+
+#: footer
+msgctxt "footer"
+msgid "footer"
+msgstr "כותרת עליונה"
+
+#: paragraph
+msgctxt "paragraph"
+msgid "paragraph"
+msgstr "פיסקה"
+
+#: entry
+msgctxt "entry"
+msgid "entry"
+msgstr "ערך"
+
+#: caption
+msgctxt "caption"
+msgid "caption"
+msgstr "כיתוב"
+
+#: heading
+msgctxt "heading"
+msgid "heading"
+msgstr "כותרת"
+
+#: section
+msgctxt "section"
+msgid "section"
+msgstr "מקטע"
+
+#: form
+msgctxt "form"
+msgid "form"
+msgstr "טופס"
+
+#: comboboxlist
+msgctxt "comboboxlist"
+msgid "combo box list"
+msgstr "רשימת תיבה משולבת"
+
+#: comboboxoption
+msgctxt "comboboxoption"
+msgid "combo box option"
+msgstr "אפשרות תיבה משולבת"
+
+#: imagemap
+msgid "image map"
+msgstr "מפת תמונה"
+
+#: listboxoption
+msgctxt "listboxoption"
+msgid "option"
+msgstr "אפשרות תיבת רשימה"
+
+#: listbox
+msgctxt "listbox"
+msgid "list box"
+msgstr "תיבת רשימה"
+
+#: flatequation
+msgctxt "flatequation"
+msgid "flat equation"
+msgstr "משוואה שטוחה"
+
+#: gridcell
+msgctxt "gridcell"
+msgid "gridcell"
+msgstr "תא רשת"
+
+#: note
+msgctxt "note"
+msgid "note"
+msgstr "הערה"
+
+#: figure
+msgid "figure"
+msgstr "איור"
+
+#: definitionlist
+msgctxt "definitionlist"
+msgid "definition list"
+msgstr "רשימת מונחים"
+
+#: term
+msgctxt "term"
+msgid "term"
+msgstr "מונח"
+
+#: definition
+msgctxt "definition"
+msgid "definition"
+msgstr "הגדרה"
+
+#. # More sophisticated roles which are not actual numeric roles
+#: textarea
+msgid "text area"
+msgstr "אזור מלל"
+
+#. # Text input types
+#: textInputType_date
+msgid "date"
+msgstr "תאריך"
+
+#: textInputType_email
+msgid "e-mail"
+msgstr "דואר אלקטרוני"
+
+#: textInputType_search
+msgctxt "textInputType_search"
+msgid "search"
+msgstr "חיפוש"
+
+#: textInputType_tel
+msgid "telephone"
+msgstr "טלפון"
+
+#: textInputType_url
+msgid "URL"
+msgstr "כתובת רשת"
+
+#. # More sophisticated object descriptions
+#: headingLevel
+msgid "heading level %S"
+msgstr "כותרת רמה %S"
+
+#. # more sophisticated list announcement
+#: listStart
+msgid "First item"
+msgstr "פריט ראשון"
+
+#: listEnd
+msgid "Last item"
+msgstr "פריט אחרון"
+
+#. # LOCALIZATION NOTE (listItemsCount): Semi-colon list of plural forms.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: listItemsCount
+msgid "1 item;#1 items"
+msgstr "פריט אחד;#1 פריטים"
+
+#. # LOCALIZATION NOTE: # %1$S is the position of the item n the set.
+#. # %2$S is the total number of such items in the set.
+#. # An expanded example would read "2 of 5".
+#: objItemOfN
+msgid "%1$S of %2$S"
+msgstr "%1$S מתוך %2$S"
+
+#. # Landmark announcements
+#: banner
+msgid "banner"
+msgstr "כרזה"
+
+#: complementary
+msgid "complementary"
+msgstr "משלים"
+
+#: contentinfo
+msgid "content info"
+msgstr "פרטי תוכן"
+
+#: main
+msgid "main"
+msgstr "ראשי"
+
+#: navigation
+msgid "navigation"
+msgstr "ניווט"
+
+#: search
+msgctxt "search"
+msgid "search"
+msgstr "חיפוש"
+
+#. # LOCALIZATION NOTE (tblColumnInfo): Semi-colon list of plural forms.
+#. # Number of columns within the table.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: tblColumnInfo
+msgid "with 1 column;with #1 columns"
+msgstr "עם עמודה אחת;עם #1 עמודות"
+
+#. # LOCALIZATION NOTE (tblRowInfo): Semi-colon list of plural forms.
+#. # Number of rows within the table or grid.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: tblRowInfo
+msgid "and 1 row;and #1 rows"
+msgstr "ושורה אחת;ו־#1 שורות"
+
+#. # table or grid cell information
+#: columnInfo
+msgid "Column %S"
+msgstr "עמודה %S"
+
+#: rowInfo
+msgid "Row %S"
+msgstr "שורה %S"
+
+#: spansColumns
+msgid "spans %S columns"
+msgstr "משתרעת על %S עמודות"
+
+#: spansRows
+msgid "spans %S rows"
+msgstr "משתרעת על %S שורות"
+
+#. # Invoked actions
+#: jumpAction
+msgid "jumped"
+msgstr ""
+
+#: pressAction
+msgctxt "pressAction"
+msgid "pressed"
+msgstr "נלחץ"
+
+#: checkAction
+msgctxt "checkAction"
+msgid "checked"
+msgstr "מסומן"
+
+#: uncheckAction
+msgid "unchecked"
+msgstr "לא מסומן"
+
+#: selectAction
+msgctxt "selectAction"
+msgid "selected"
+msgstr "נבחר"
+
+#: unselectAction
+msgid "unselected"
+msgstr ""
+
+#: openAction
+msgid "opened"
+msgstr "פתוח"
+
+#: closeAction
+msgid "closed"
+msgstr "סגור"
+
+#: switchAction
+msgid "switched"
+msgstr ""
+
+#: clickAction
+msgid "clicked"
+msgstr "נלחץ"
+
+#: collapseAction
+msgctxt "collapseAction"
+msgid "collapsed"
+msgstr "צומצם"
+
+#: expandAction
+msgctxt "expandAction"
+msgid "expanded"
+msgstr "הורחב"
+
+#: activateAction
+msgid "activated"
+msgstr "הופעל"
+
+#: cycleAction
+msgid "cycled"
+msgstr ""
+
+#. # Live regions
+#. # 'hidden' will be spoken when something disappears in a live region.
+#: hidden
+msgid "hidden"
+msgstr "מוסתר"
+
+#. # Tab states
+#: tabLoading
+msgid "loading"
+msgstr "בטעינה"
+
+#: tabLoaded
+msgid "loaded"
+msgstr "נטען"
+
+#: tabNew
+msgid "new tab"
+msgstr "לשונית חדשה"
+
+#: tabLoadStopped
+msgid "loading stopped"
+msgstr "טעינה הופסקה"
+
+#: tabReload
+msgid "reloading"
+msgstr "בטעינה חוזרת"
+
+#. # Object states
+#: stateChecked
+msgctxt "stateChecked"
+msgid "checked"
+msgstr "מסומן"
+
+#: stateNotChecked
+msgid "not checked"
+msgstr "לא מסומן"
+
+#: statePressed
+msgctxt "statePressed"
+msgid "pressed"
+msgstr "נלחץ"
+
+#. # No string for a not pressed toggle button
+#: stateExpanded
+msgctxt "stateExpanded"
+msgid "expanded"
+msgstr "הורחב"
+
+#: stateCollapsed
+msgctxt "stateCollapsed"
+msgid "collapsed"
+msgstr "צומצם"
+
+#: stateUnavailable
+msgid "unavailable"
+msgstr "לא זמין"
+
+#: stateReadonly
+msgid "readonly"
+msgstr ""
+
+#: stateRequired
+msgid "required"
+msgstr "נדרש"
+
+#: stateTraversed
+msgid "visited"
+msgstr "בוקר"
+
+#: stateHasPopup
+msgid "has pop up"
+msgstr "כולל תוכן קופץ"
+
+#: stateSelected
+msgctxt "stateSelected"
+msgid "selected"
+msgstr "נבחר"
+
+#. # App modes
+#: editingMode
+msgid "editing"
+msgstr "עריכה"
+
+#: navigationMode
+msgid "navigating"
+msgstr "ניווט"
+
+#. # Quick navigation modes
+#: quicknav_Simple
+msgid "Default"
+msgstr "בררת מחדל"
+
+#: quicknav_Anchor
+msgid "Anchors"
+msgstr "עוגנים"
+
+#: quicknav_Button
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: quicknav_Combobox
+msgid "Combo boxes"
+msgstr "תיבות משולבות"
+
+#: quicknav_Landmark
+msgid "Landmarks"
+msgstr "ציוני דרך"
+
+#: quicknav_Entry
+msgid "Entries"
+msgstr "ערכים"
+
+#: quicknav_FormElement
+msgid "Form elements"
+msgstr "רכיבי טופס"
+
+#: quicknav_Graphic
+msgid "Images"
+msgstr "תמונות"
+
+#: quicknav_Heading
+msgid "Headings"
+msgstr "כותרות"
+
+#: quicknav_ListItem
+msgid "List items"
+msgstr "פרטי רשימה"
+
+#: quicknav_Link
+msgid "Links"
+msgstr "קישורים"
+
+#: quicknav_List
+msgid "Lists"
+msgstr "רשימות"
+
+#: quicknav_PageTab
+msgid "Page tabs"
+msgstr "לשוניות דף"
+
+#: quicknav_RadioButton
+msgid "Radio buttons"
+msgstr "כפתורי בורר"
+
+#: quicknav_Separator
+msgid "Separators"
+msgstr "מפרידים"
+
+#: quicknav_Table
+msgid "Tables"
+msgstr "טבלאות"
+
+#: quicknav_Checkbox
+msgid "Check boxes"
+msgstr "תיבות סימון"
+
+#. # Shortened role names for braille
+#: menubarAbbr
+msgctxt "menubarAbbr"
+msgid "menu bar"
+msgstr "סרגל תפריט"
+
+#: scrollbarAbbr
+msgctxt "scrollbarAbbr"
+msgid "scroll bar"
+msgstr "פס גלילה"
+
+#: gripAbbr
+msgctxt "gripAbbr"
+msgid "grip"
+msgstr "ידית"
+
+#: alertAbbr
+msgctxt "alertAbbr"
+msgid "alert"
+msgstr "התראה"
+
+#: menupopupAbbr
+msgctxt "menupopupAbbr"
+msgid "menu popup"
+msgstr "תפריט קופץ"
+
+#: documentAbbr
+msgctxt "documentAbbr"
+msgid "document"
+msgstr "מסמך"
+
+#: paneAbbr
+msgctxt "paneAbbr"
+msgid "pane"
+msgstr "לוח"
+
+#: dialogAbbr
+msgctxt "dialogAbbr"
+msgid "dialog"
+msgstr "דו־שיח"
+
+#: separatorAbbr
+msgctxt "separatorAbbr"
+msgid "separator"
+msgstr "מפריד"
+
+#: toolbarAbbr
+msgctxt "toolbarAbbr"
+msgid "toolbar"
+msgstr "סרגל כלים"
+
+#: statusbarAbbr
+msgctxt "statusbarAbbr"
+msgid "status bar"
+msgstr "שורת מצב"
+
+#: tableAbbr
+msgid "tbl"
+msgstr "טבלה"
+
+#: columnheaderAbbr
+msgctxt "columnheaderAbbr"
+msgid "column header"
+msgstr "עמודת כותרת"
+
+#: rowheaderAbbr
+msgctxt "rowheaderAbbr"
+msgid "row header"
+msgstr "שורת כותרת"
+
+#: columnAbbr
+msgctxt "columnAbbr"
+msgid "column"
+msgstr "עמודה"
+
+#: rowAbbr
+msgctxt "rowAbbr"
+msgid "row"
+msgstr "שורה"
+
+#: cellAbbr
+msgctxt "cellAbbr"
+msgid "cell"
+msgstr "תא"
+
+#: linkAbbr
+msgid "lnk"
+msgstr "קישור"
+
+#: listAbbr
+msgctxt "listAbbr"
+msgid "list"
+msgstr "רשימה"
+
+#: listitemAbbr
+msgctxt "listitemAbbr"
+msgid "list item"
+msgstr "פריט רשימה"
+
+#: outlineAbbr
+msgctxt "outlineAbbr"
+msgid "outline"
+msgstr "מתאר"
+
+#: outlineitemAbbr
+msgctxt "outlineitemAbbr"
+msgid "outline item"
+msgstr "פריט מתאר"
+
+#: pagetabAbbr
+msgctxt "pagetabAbbr"
+msgid "tab"
+msgstr "לשונית"
+
+#: propertypageAbbr
+msgctxt "propertypageAbbr"
+msgid "property page"
+msgstr "דף מאפיינים"
+
+#: graphicAbbr
+msgctxt "graphicAbbr"
+msgid "graphic"
+msgstr "גרפיקה"
+
+#: pushbuttonAbbr
+msgid "btn"
+msgstr "כפתור"
+
+#: checkbuttonAbbr
+msgctxt "checkbuttonAbbr"
+msgid "check button"
+msgstr "כפתור סימון"
+
+#: radiobuttonAbbr
+msgctxt "radiobuttonAbbr"
+msgid "radio button"
+msgstr "כפתור בורר"
+
+#: comboboxAbbr
+msgctxt "comboboxAbbr"
+msgid "combo box"
+msgstr "תיבה משולבת"
+
+#: progressbarAbbr
+msgctxt "progressbarAbbr"
+msgid "progress bar"
+msgstr "פס התקדמות"
+
+#: sliderAbbr
+msgctxt "sliderAbbr"
+msgid "slider"
+msgstr "מחוון"
+
+#: spinbuttonAbbr
+msgctxt "spinbuttonAbbr"
+msgid "spin button"
+msgstr "כפתור סיבוב"
+
+#: diagramAbbr
+msgctxt "diagramAbbr"
+msgid "diagram"
+msgstr "תרשים"
+
+#: animationAbbr
+msgctxt "animationAbbr"
+msgid "animation"
+msgstr "הנפשה"
+
+#: equationAbbr
+msgctxt "equationAbbr"
+msgid "equation"
+msgstr "משוואה"
+
+#: buttonmenuAbbr
+msgctxt "buttonmenuAbbr"
+msgid "button menu"
+msgstr "כפתור תפריט"
+
+#: whitespaceAbbr
+msgctxt "whitespaceAbbr"
+msgid "white space"
+msgstr "רווח לבן"
+
+#: pagetablistAbbr
+msgctxt "pagetablistAbbr"
+msgid "tab list"
+msgstr "רשימת לשוניות"
+
+#: canvasAbbr
+msgctxt "canvasAbbr"
+msgid "canvas"
+msgstr "בד"
+
+#: checkmenuitemAbbr
+msgctxt "checkmenuitemAbbr"
+msgid "check menu item"
+msgstr "פריט סימון בתפריט"
+
+#: labelAbbr
+msgctxt "labelAbbr"
+msgid "label"
+msgstr "תווית"
+
+#: passwordtextAbbr
+msgid "passwdtxt"
+msgstr "מלל ססמה"
+
+#: radiomenuitemAbbr
+msgctxt "radiomenuitemAbbr"
+msgid "radio menu item"
+msgstr "פריט בורר בתפריט"
+
+#: textcontainerAbbr
+msgctxt "textcontainerAbbr"
+msgid "text container"
+msgstr "תיבת מלל"
+
+#: togglebuttonAbbr
+msgctxt "togglebuttonAbbr"
+msgid "toggle button"
+msgstr "כפתור דו מצבי"
+
+#: treetableAbbr
+msgctxt "treetableAbbr"
+msgid "tree table"
+msgstr "טבלת עץ"
+
+#: headerAbbr
+msgctxt "headerAbbr"
+msgid "header"
+msgstr "כותרת"
+
+#: footerAbbr
+msgctxt "footerAbbr"
+msgid "footer"
+msgstr "כותרת תחתונה"
+
+#: paragraphAbbr
+msgctxt "paragraphAbbr"
+msgid "paragraph"
+msgstr "פיסקה"
+
+#: entryAbbr
+msgctxt "entryAbbr"
+msgid "entry"
+msgstr "ערך"
+
+#: captionAbbr
+msgctxt "captionAbbr"
+msgid "caption"
+msgstr "כיתוב"
+
+#: headingAbbr
+msgctxt "headingAbbr"
+msgid "heading"
+msgstr "כותרת"
+
+#: sectionAbbr
+msgctxt "sectionAbbr"
+msgid "section"
+msgstr "מדור"
+
+#: formAbbr
+msgctxt "formAbbr"
+msgid "form"
+msgstr "טופס"
+
+#: comboboxlistAbbr
+msgctxt "comboboxlistAbbr"
+msgid "combo box list"
+msgstr "רשימת תיבה משולבת"
+
+#: comboboxoptionAbbr
+msgctxt "comboboxoptionAbbr"
+msgid "combo box option"
+msgstr "אפשרות תיבה משולבת"
+
+#: imagemapAbbr
+msgid "imgmap"
+msgstr "מפת תמונה"
+
+#: listboxoptionAbbr
+msgctxt "listboxoptionAbbr"
+msgid "option"
+msgstr "אפשרות"
+
+#: listboxAbbr
+msgctxt "listboxAbbr"
+msgid "list box"
+msgstr "תיבת רשימה"
+
+#: flatequationAbbr
+msgctxt "flatequationAbbr"
+msgid "flat equation"
+msgstr "משוואה שטוחה"
+
+#: gridcellAbbr
+msgctxt "gridcellAbbr"
+msgid "gridcell"
+msgstr "תא רשת"
+
+#: noteAbbr
+msgctxt "noteAbbr"
+msgid "note"
+msgstr "הערה"
+
+#: figureAbbr
+msgid "fig"
+msgstr "איור"
+
+#: definitionlistAbbr
+msgctxt "definitionlistAbbr"
+msgid "definition list"
+msgstr "רשימת פירושים"
+
+#: termAbbr
+msgctxt "termAbbr"
+msgid "term"
+msgstr "מונח"
+
+#: definitionAbbr
+msgctxt "definitionAbbr"
+msgid "definition"
+msgstr "פירוש"
+
+#: textareaAbbr
+msgid "txtarea"
+msgstr "אזור מלל"
+
+#. # LOCALIZATION NOTE (tblColumnInfoAbbr): Semi-colon list of plural forms.
+#. # Number of columns within the table.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: tblColumnInfoAbbr
+msgid "#1c;#1c"
+msgstr "#1ע;#1ע"
+
+#. # LOCALIZATION NOTE (tblRowInfoAbbr): Semi-colon list of plural forms.
+#. # Number of rows within the table or grid.
+#. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
+#: tblRowInfoAbbr
+msgid "#1r;#1r"
+msgstr "#1ש;#1ש"
+
+#: cellInfoAbbr
+msgid "c%Sr%S"
+msgstr "ע%Sש%S"
+
+#: stateCheckedAbbr
+msgctxt "stateCheckedAbbr"
+msgid "(x)"
+msgstr "(x)"
+
+#: stateUncheckedAbbr
+msgctxt "stateUncheckedAbbr"
+msgid "( )"
+msgstr "( )"
+
+#: statePressedAbbr
+msgctxt "statePressedAbbr"
+msgid "(x)"
+msgstr "(x)"
+
+#: stateUnpressedAbbr
+msgctxt "stateUnpressedAbbr"
+msgid "( )"
+msgstr "( )"

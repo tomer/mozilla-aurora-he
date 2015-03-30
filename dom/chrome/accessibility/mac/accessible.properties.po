@@ -1,0 +1,114 @@
+#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#. extracted from l10n/en-US/dom/chrome/accessibility/mac/accessible.properties, l10n/he/dom/chrome/accessibility/mac/accessible.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#: jump
+msgid "Jump"
+msgstr "קפיצה"
+
+#: press
+msgid "Press"
+msgstr "לחיצה"
+
+#: check
+msgid "Check"
+msgstr "סימון"
+
+#: uncheck
+msgid "Uncheck"
+msgstr "ביטול סימון"
+
+#: select
+msgid "Select"
+msgstr "בחירה"
+
+#: open
+msgid "Open"
+msgstr "פתיחה"
+
+#: close
+msgid "Close"
+msgstr "סגירה"
+
+#: switch
+msgid "Switch"
+msgstr "החלפה"
+
+#: click
+msgid "Click"
+msgstr "לחיצה"
+
+#: collapse
+msgid "Collapse"
+msgstr "צימצום"
+
+#: expand
+msgid "Expand"
+msgstr "הרחבה"
+
+#: activate
+msgid "Activate"
+msgstr "הפעלה"
+
+#: cycle
+msgid "Cycle"
+msgstr "דפדוף בין חלונות"
+
+#. # Universal Access API support
+#. # (Mac Only)
+#. # The Role Description for AXWebArea (the web widget). Like in Safari.
+#: htmlContent
+msgid "HTML Content"
+msgstr "תוכן HTML"
+
+#. # The Role Description for the Tab button.
+#: tab
+msgid "tab"
+msgstr "tab"
+
+#. # The Role Description for definition list dl, dt and dd
+#: term
+msgid "term"
+msgstr "מונח"
+
+#: definition
+msgid "definition"
+msgstr "הגדרה"
+
+#. # The Role Description for WAI-ARIA Landmarks
+#: search
+msgid "search"
+msgstr "חיפוש"
+
+#: banner
+msgid "banner"
+msgstr "כרזה"
+
+#: navigation
+msgid "navigation"
+msgstr "ניווט"
+
+#: complementary
+msgid "complementary"
+msgstr "משלים"
+
+#: content
+msgid "content"
+msgstr "תוכן"
+
+#: main
+msgid "main"
+msgstr "ראשי"

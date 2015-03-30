@@ -1,0 +1,309 @@
+#. extracted from l10n/en-US/browser/chrome/browser/preferences/advanced.dtd, l10n/he/browser/chrome/browser/preferences/advanced.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#. This Source Code Form is subject to the terms of the Mozilla Public
+#. - License, v. 2.0. If a copy of the MPL was not distributed with this
+#. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#. Note: each tab panel must contain unique accesskeys
+#: generalTab.label
+msgid "General"
+msgstr "כללי"
+
+#: accessibility.label
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: useCursorNavigation.label
+#: useCursorNavigation.accesskey
+msgid "Always use the &cursor keys to navigate within pages"
+msgstr "השתמש תמיד במקשי ה&סמן לניווט בתוך דפים"
+
+#: searchStartTyping.label
+#: searchStartTyping.accesskey
+msgid "Search for te&xt when I start typing"
+msgstr "חפש &טקסט כאשר אני מתחיל להקליד"
+
+#: blockAutoRefresh.label
+#: blockAutoRefresh.accesskey
+msgid "Warn me when we&bsites try to redirect or reload the page"
+msgstr "&הזהר אותי כאשר אתרים מנסים לטעון מחדש את הדף או להעביר אותי לדף אחר"
+
+#: browsing.label
+msgid "Browsing"
+msgstr "דפדוף"
+
+#: useAutoScroll.label
+#: useAutoScroll.accesskey
+msgid "Use &autoscrolling"
+msgstr "השתמש &בגלילה אוטומטית"
+
+#: useSmoothScrolling.label
+#: useSmoothScrolling.accesskey
+msgid "Use s&mooth scrolling"
+msgstr "השתמש בגלילה &חלקה"
+
+#: allowHWAccel.label
+#: allowHWAccel.accesskey
+msgid "Use ha&rdware acceleration when available"
+msgstr "&השתמש בהאצת חומרה כשניתן"
+
+#: checkSpelling.label
+#: checkSpelling.accesskey
+msgid "Check my spelling as I &type"
+msgstr "בדוק &איות בזמן שאני מקליד"
+
+#: dataChoicesTab.label
+msgid "Data Choices"
+msgstr "בחירות מידע"
+
+#: healthReportDesc.label
+msgid ""
+"Helps you understand your browser performance and shares data with "
+"&vendorShortName; about your browser health"
+msgstr ""
+"עוזר להבין את ביצועי הדפדפן שלך ואת הנתונים שמשותפים עם &vendorShortName;  "
+"על בריאות הדפדפן שלך"
+
+#: enableHealthReport.label
+#: enableHealthReport.accesskey
+msgid "Enable &brandShortName; Health &Report"
+msgstr "אפשר את &דוח הבריאות של &brandShortName; "
+
+#: healthReportLearnMore.label
+msgctxt "healthReportLearnMore.label"
+msgid "Learn More"
+msgstr "מידע נוסף"
+
+#: telemetryDesc.label
+msgid ""
+"Shares performance, usage, hardware and customization data about your "
+"browser with &vendorShortName; to help us make &brandShortName; better"
+msgstr ""
+"שיתוף נתוני ביצועים, שימוש, חומרה והתאמה אישית של הדפדפן שלך עם  "
+"&vendorShortName; כדי לסייע בשיפור &brandShortName; better"
+
+#: enableTelemetryData.label
+msgid "Share additional data (i.e., Telemetry)"
+msgstr ""
+
+#: enableTelemetryData.accesskey
+msgid "T"
+msgstr ""
+
+#: telemetryLearnMore.label
+msgctxt "telemetryLearnMore.label"
+msgid "Learn More"
+msgstr "מידע נוסף"
+
+#: crashReporterDesc.label
+msgid ""
+"&brandShortName; submits crash reports to help &vendorShortName; make your "
+"browser more stable and secure"
+msgstr ""
+"&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; לעשות את "
+"דפדפן שלך יותר יציב ובטוח"
+
+#: enableCrashReporter.label
+#: enableCrashReporter.accesskey
+msgid "Enable &Crash Reporter"
+msgstr "אפשר את &מדווח הקריסות"
+
+#: crashReporterLearnMore.label
+msgctxt "crashReporterLearnMore.label"
+msgid "Learn More"
+msgstr "מידע נוסף"
+
+#: networkTab.label
+msgid "Network"
+msgstr "רשת"
+
+#: connection.label
+msgid "Connection"
+msgstr "קישוריות"
+
+#: connectionDesc.label
+msgid "Configure how &brandShortName; connects to the Internet"
+msgstr "הגדר כיצד &brandShortName; מתחבר לאינטרנט"
+
+#: connectionSettings.label
+#: connectionSettings.accesskey
+msgid "S&ettings…"
+msgstr "&הגדרות..."
+
+#: httpCache.label
+msgid "Cached Web Content"
+msgstr "תוכן רשת במטמון"
+
+#: offlineStorage2.label
+msgid "Offline Web Content and User Data"
+msgstr "תוכן רשת לא מקוון ונתוני משתמש"
+
+#. LOCALIZATION NOTE:
+#. The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+#. line in preferences as follows:
+#. &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+#: limitCacheSizeBefore.label
+#: limitCacheSizeBefore.accesskey
+msgid "&Limit cache to"
+msgstr "&הגבלת גודל המטמון ל־"
+
+#: limitCacheSizeAfter.label
+msgid "MB of space"
+msgstr "מ״ב של מקום"
+
+#: clearCacheNow.label
+#: clearCacheNow.accesskey
+msgid "&Clear Now"
+msgstr "&מחק עכשיו"
+
+#: clearOfflineAppCacheNow.label
+#: clearOfflineAppCacheNow.accesskey
+msgid "Clear &Now"
+msgstr "מ&חק עכשיו"
+
+#: overrideSmartCacheSize.label
+#: overrideSmartCacheSize.accesskey
+msgid "&Override automatic cache management"
+msgstr "עקוף &את ניהול המטמון האוטומטי"
+
+#: updateTab.label
+msgid "Update"
+msgstr "עדכון"
+
+#: updateApp.label
+msgid "&brandShortName; updates:"
+msgstr "עדכוני &brandShortName;:"
+
+#. Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
+#. so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
+#. in preferences.properties
+#: updateAuto1.label
+#: updateAuto1.accesskey
+msgid "&Automatically install updates (recommended: improved security)"
+msgstr "התקנת עדכונים &אוטומטית (מומלץ: אבטחה משופרת)"
+
+#: updateAutoMetro.label
+#: updateAutoMetro.accesskey
+msgid "Automatically update from de&sktop and Windows 8 style &brandShortName;"
+msgstr ""
+"התקנת עדכונים אוטומטית עבור גרסת &שולחן העבודה ומראה Windows 8 של "
+"&brandShortName;"
+
+#: updateCheck.label
+#: updateCheck.accesskey
+msgid "&Check for updates, but let me choose whether to install them"
+msgstr "בדיקת עדכונים, אבל &הצגת הודעה שתאפשר לי לבחור אם להתקין אותם"
+
+#: updateManual.label
+#: updateManual.accesskey
+msgid "&Never check for updates (not recommended: security risk)"
+msgstr "&לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)"
+
+#: updateAutoAddonWarn.label
+#: updateAutoAddonWarn.accesskey
+msgid "&Warn me if this will disable any of my add-ons"
+msgstr "ה&זהר אותי אם עדכון זה ינטרל תוספות מותקנות"
+
+#: updateAutoMetroWarn.label
+msgid "(Windows 8 style &brandShortName; does not check add-on compatibility)"
+msgstr "(&brandShortName; בסגנון Windows 8 לא בודק תאימות תוספות)"
+
+#: updateHistory.label
+#: updateHistory.accesskey
+msgid "Show U&pdate History"
+msgstr "ה&צג היסטורית עדכונים"
+
+#: useService.label
+#: useService.accesskey
+msgid "Use a &background service to install updates"
+msgstr "שימוש בשי&רות רקע לשם התקנת עדכונים"
+
+#: updateOthers.label
+msgid "Automatically update:"
+msgstr "עדכונים אוטומטיים עבור:"
+
+#: enableSearchUpdate.label
+#: enableSearchUpdate.accesskey
+msgid "Search &Engines"
+msgstr "&מנועי חיפוש"
+
+#: offlineNotify.label
+#: offlineNotify.accesskey
+msgid "&Tell me when a website asks to store data for offline use"
+msgstr "&דווח לי כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון"
+
+#: offlineNotifyExceptions.label
+#: offlineNotifyExceptions.accesskey
+msgid "E&xceptions…"
+msgstr "&חריגות…"
+
+#: offlineAppsList2.label
+msgid "The following websites are allowed to store data for offline use:"
+msgstr "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון:"
+
+#. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
+#: offlineAppsList.height
+msgid "7em"
+msgstr "7em"
+
+#: offlineAppsListRemove.label
+#: offlineAppsListRemove.accesskey
+msgid "&Remove…"
+msgstr "&הסר..."
+
+#: offlineAppRemove.confirm
+msgid "Remove offline data"
+msgstr "הסר נתונים לא מקוונים"
+
+#: certificateTab.label
+msgid "Certificates"
+msgstr "אישורים"
+
+#: certSelection.description
+msgid "When a server requests my personal certificate:"
+msgstr "כאשר שרת מבקש את האישור האישי שלי:"
+
+#: certs.auto
+msgid "Select one automatically"
+msgstr "בחר באחד אוטומטית"
+
+#: certs.auto.accesskey
+msgid "S"
+msgstr "ב"
+
+#: certs.ask
+msgid "Ask me every time"
+msgstr "שאל אותי בכל פעם"
+
+#: certs.ask.accesskey
+msgid "A"
+msgstr "ש"
+
+#: enableOCSP.label
+#: enableOCSP.accesskey
+msgid ""
+"&Query OCSP responder servers to confirm the current validity of certificates"
+msgstr "ל&תשאל שרתי  OCSP כדי לאמת תקפות נוכחית של אישורי אבטחה"
+
+#: viewCerts.label
+#: viewCerts.accesskey
+msgid "View &Certificates"
+msgstr "ה&צג אישורים"
+
+#: viewSecurityDevices.label
+#: viewSecurityDevices.accesskey
+msgid "Security &Devices"
+msgstr "&התקני אבטחה"

@@ -1,0 +1,76 @@
+#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#. extracted from l10n/en-US/browser/chrome/browser/sitePermissions.properties, l10n/he/browser/chrome/browser/sitePermissions.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#: allow
+msgid "Allow"
+msgstr "הרשה"
+
+#: allowForSession
+msgid "Allow for Session"
+msgstr "הרשה למשך ההפעלה"
+
+#: block
+msgid "Block"
+msgstr "חסום"
+
+#: alwaysAsk
+msgid "Always Ask"
+msgstr "שאל תמיד"
+
+#: permission.cookie.label
+msgid "Set Cookies"
+msgstr "הגדרת עוגיות"
+
+#: permission.desktop-notification.label
+msgid "Show Notifications"
+msgstr "הצגת התראות"
+
+#: permission.image.label
+msgid "Load Images"
+msgstr "טעינת תמונות"
+
+#: permission.camera.label
+msgid "Use the Camera"
+msgstr "שימוש במצלמה"
+
+#: permission.microphone.label
+msgid "Use the Microphone"
+msgstr "שימוש במיקרופון"
+
+#: permission.install.label
+msgid "Install Add-ons"
+msgstr "התקנת תוספות"
+
+#: permission.popup.label
+msgid "Open Pop-up Windows"
+msgstr "פתיחת חלונות קופצים"
+
+#: permission.geo.label
+msgid "Access Your Location"
+msgstr "גישה למיקום שלך"
+
+#: permission.indexedDB.label
+msgid "Maintain Offline Storage"
+msgstr "תחזוקת אחסון לא מקוון"
+
+#: permission.fullscreen.label
+msgid "Enter Fullscreen"
+msgstr "כניסה למסך מלא"
+
+#: permission.pointerLock.label
+msgid "Hide the Mouse Pointer"
+msgstr "הסתרת מצביע העכבר"

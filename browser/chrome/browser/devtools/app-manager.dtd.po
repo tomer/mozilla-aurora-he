@@ -1,0 +1,444 @@
+#. extracted from l10n/en-US/browser/chrome/browser/devtools/app-manager.dtd, l10n/he/browser/chrome/browser/devtools/app-manager.dtd
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 22:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#. This Source Code Form is subject to the terms of the Mozilla Public
+#. - License, v. 2.0. If a copy of the MPL was not distributed with this
+#. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#: index.title
+msgctxt "index.title"
+msgid "App Manager"
+msgstr "מנהל היישומים"
+
+#: index.projects2
+msgid "Apps"
+msgstr "יישומים"
+
+#: index.device2
+msgid "Device"
+msgstr "התקנים"
+
+#: index.help
+msgctxt "index.help"
+msgid "Help"
+msgstr "עזרה"
+
+#: device.debugMainProcess
+msgid "Debug main process"
+msgstr "תהליך ראשי של מנפה השגיאות"
+
+#: device.debugMainProcessTooltip
+msgid "Open the Developer Tools connected to the main process on the device"
+msgstr "פתיחת כלי הפיתוח המחוברים לתהליך הראשי על ההתקן"
+
+#: device.screenshot
+msgid "Screenshot"
+msgstr "צילום מסך"
+
+#: device.screenshotTooltip
+msgid "Open a screenshot of the current state of the device in a new tab"
+msgstr "פתיחת צילום מסך של המצב הנוכחי של ההתקן בלשונית חדשה"
+
+#: device.title
+msgid "Device Control Center"
+msgstr "מרכז בקרת התקן"
+
+#: device.notConnected
+msgid "Not connected. Please connect your device below."
+msgstr "לא מחובר. נא לחבר את ההתקן שלך להלן"
+
+#: device.startApp
+msgid "Start"
+msgstr "הפעלה"
+
+#: device.startAppTooltip
+msgid "Start this app on the device"
+msgstr "הפעלת יישום זה על ההתקן"
+
+#: device.stopApp
+msgid "Stop"
+msgstr "עצירה"
+
+#: device.stopAppTooltip
+msgid "Stop this app on the device"
+msgstr "עצירת יישום זה על ההתקן"
+
+#: device.debugApp
+msgctxt "device.debugApp"
+msgid "Debug"
+msgstr "ניפוי שגיאות"
+
+#: device.debugAppTooltip
+msgid "Open the Developer Tools connected to this app on the device"
+msgstr "פתיחת כלי הפיתוח המחוברים ליישום זה על ההתקן"
+
+#: device.name
+msgid "Name"
+msgstr "שם"
+
+#: device.plain
+msgid "Plain (default)"
+msgstr "פשוט (בררת מחדל)"
+
+#: device.privileged
+msgid "Privileged"
+msgstr "בעל זכויות"
+
+#: device.certified
+msgid "Certified"
+msgstr "מאומת"
+
+#: device.allow
+msgid "Allow"
+msgstr "מאופשר"
+
+#: device.allowTooltip
+msgid "This permission is allowed for apps of this type"
+msgstr "הרשאה זו מורשת ליישומים מסוג זה"
+
+#: device.prompt
+msgid "Prompt"
+msgstr "אישור נדרש"
+
+#: device.promptTooltip
+msgid "This permission requires a user prompt for apps of this type"
+msgstr "הרשאה זו דורשת את אישור המשתמש ליישומים מסוג זה"
+
+#: device.deny
+msgid "Deny"
+msgstr "לא מאופשר"
+
+#: device.denyTooltip
+msgid "This permission is denied for apps of this type"
+msgstr "הרשאה זו אינה מאופשרת ליישומים מסוג זה"
+
+#: device.installedApps
+msgid "Installed Apps"
+msgstr "יישומים מותקנים"
+
+#: device.installedAppsTooltip
+msgid ""
+"View a list of apps installed on the device. Some apps, such as certified "
+"apps, may be excluded from this view."
+msgstr ""
+"צפייה ברשימת היישומים המותקנים על ההתקן. חלק מהיישומים, כגון יישומים מאומתים "
+"עשויים שלא להיות מוצגים."
+
+#: device.permissions
+msgid "Permissions"
+msgstr "הרשאות"
+
+#: device.permissionsTooltip
+msgid ""
+"View a table of the permissions accessible to the different types of apps"
+msgstr "צפייה בטבלת ההרשאות הנגישה לסוגים שונים של יישומים"
+
+#: device.permissionsHelpLink
+msgid "https://developer.mozilla.org/docs/Web/Apps/App_permissions"
+msgstr "https://developer.mozilla.org/docs/Web/Apps/App_permissions"
+
+#: device.browserTabs
+msgid "Browser Tabs"
+msgstr "לשוניות דפדפן"
+
+#: device.browserTabsTooltip
+msgid "View a list of tabs in the browser of the connected device"
+msgstr "צפייה ברשימת הלשוניות בדפדפן של ההתקן המחובר"
+
+#: device.debugBrowserTab
+msgctxt "device.debugBrowserTab"
+msgid "Debug"
+msgstr "ניפוי שגיאות"
+
+#: device.debugBrowserTabTooltip
+msgid "Open the Developer Tools connected to this browser tab on the device"
+msgstr "פתיחת כלי הפיתוח המחוברים ללשונית דפדפן זו על ההתקן"
+
+#: device.help
+msgctxt "device.help"
+msgid "Help"
+msgstr "עזרה"
+
+#: connection.connectTooltip
+msgid "Connect to the device"
+msgstr "התחברות להתקן"
+
+#: connection.disconnect
+msgid "Disconnect"
+msgstr "התנתקות"
+
+#: connection.disconnectTooltip
+msgid "Disconnect from the current device or simulator"
+msgstr "התנתקות מההתקן הנוכחי או מהמדמה"
+
+#: connection.notConnected2
+msgid "Not Connected."
+msgstr "לא מחובר."
+
+#: connection.connectTo
+msgid "Connect to:"
+msgstr "התחברות אל:"
+
+#: connection.noDeviceFound
+msgid "No device found. Plug a device"
+msgstr "לא מחובר התקן. נא לחבר התקן"
+
+#: connection.changeHostAndPort
+msgid "Change"
+msgstr "שינוי"
+
+#: connection.changeHostAndPortTooltip
+msgid ""
+"Change the host and port used to connect to the device (defaults to "
+"localhost:6000)"
+msgstr ""
+"נא לשנות את הכתובת והשער המשמשים כדי להתחבר אל ההתקן (בררת המחדל היא "
+"localhost:6000)"
+
+#: connection.startSimulator
+msgid "Start Simulator"
+msgstr "הפעלת המדמה"
+
+#: connection.startSimulatorTooltip
+msgid "Start an instance of the Simulator and connect to it"
+msgstr "התחלת מופע חדש של המדמה והתחברות אליו"
+
+#: connection.saveConnectionInfo
+msgctxt "connection.saveConnectionInfo"
+msgid "Save"
+msgstr "שמירה"
+
+#: connection.saveConnectionInfoTooltip
+msgid "Save the host and port"
+msgstr "שמירת הכתובת והשער"
+
+#: connection.connecting
+msgid "Connecting…"
+msgstr "התחברות…"
+
+#: connection.disconnecting
+msgid "Disconnecting…"
+msgstr "התנתקות…"
+
+#: connection.cancel
+msgid "Cancel"
+msgstr "ביטול"
+
+#: connection.cancelConnectTooltip
+msgid "Cancel the connection in progress"
+msgstr "ביטול תהליך ההתחברות"
+
+#: connection.cancelShowSimulatorTooltip
+msgid "Exit the Simulator connection mode and return to the initial prompt"
+msgstr "יציאה ממצב התחברות אל המדמה וחזרה אל המסך הראשי"
+
+#: connection.or
+msgid "or"
+msgstr "או"
+
+#: connection.noSimulatorInstalled
+msgid "No simulator installed."
+msgstr "לא מותקן המדמה."
+
+#: connection.installOneSimulator
+msgid "Install Simulator"
+msgstr "התקנת המדמה"
+
+#: connection.installOneSimulatorTooltip
+msgid "Install a version of the Simulator by downloading the relevant add-on"
+msgstr "התקנת גרסה של המדמה באמצעות הורדה של התוספת המתאימה"
+
+#: connection.installAnotherSimulator
+msgctxt "connection.installAnotherSimulator"
+msgid "Add"
+msgstr "הוספה"
+
+#: connection.installAnotherSimulatorTooltip
+msgid ""
+"Install an additional version of the Simulator by downloading the relevant "
+"add-on"
+msgstr "התקנת גרסה נוספת של המדמה באמצעות הורדה של התוספת המתאימה"
+
+#: connection.startRegisteredSimulator
+msgid "Start:"
+msgstr "הפעלה:"
+
+#: projects.localApps
+msgctxt "projects.localApps"
+msgid "Local Apps"
+msgstr "יישומים מקומיים"
+
+#: projects.addApp
+msgctxt "projects.addApp"
+msgid "Add"
+msgstr "הוספה"
+
+#: projects.addPackaged
+msgid "Add Packaged App"
+msgstr "הוספת יישום ארוז"
+
+#: projects.addPackagedTooltip
+msgid "Add a new packaged app (a directory) from your computer"
+msgstr "הוספת יישום ארוז חדש (או תיקייה) מהמחשב שלך"
+
+#: projects.addHosted
+msgid "Add Hosted App"
+msgstr "הוספת יישום מאורח"
+
+#: projects.addHostedTooltip
+msgid ""
+"Add a new hosted app (link to a manifest.webapp file) from a remote website"
+msgstr "הוספת יישום מאורח (קישור לקובץ manifest.webapp) מאתר מרוחק"
+
+#: projects.title
+msgctxt "projects.title"
+msgid "Local Apps"
+msgstr "יישומים מקומיים"
+
+#: projects.appDetails
+msgid "App Details"
+msgstr "פרטי יישום"
+
+#: projects.removeAppFromList
+msgid ""
+"Remove this app from the list of apps you are working on. This will not "
+"remove it from a device or a simulator."
+msgstr ""
+"הסרת יישום זה מרשימת היישומים שבעבודה. פעולה זו לא תסיר את היישום מההתקן או "
+"מהמדמה."
+
+#: projects.updateApp
+msgid "Update"
+msgstr "עדכון"
+
+#: projects.updateAppTooltip
+msgid "Execute validation checks and update the app to the connected device"
+msgstr "הפעלת בדיקות אימות ועדכון היישום על ההתקן המחובר"
+
+#: projects.debugApp
+msgctxt "projects.debugApp"
+msgid "Debug"
+msgstr "ניפוי שגיאות"
+
+#: projects.debugAppTooltip
+msgid "Open Developer Tools connected to this app"
+msgstr "פתיחת כלי הפיתוח עבור יישום זה"
+
+#: projects.saveManifest
+msgctxt "projects.saveManifest"
+msgid "Save"
+msgstr "שמירה"
+
+#: projects.saveManifestTooltip
+msgid "Save the contents of the Manifest Editor below"
+msgstr "שמירת תוכנו של ה־Manifest Editor להלן"
+
+#: projects.hostedManifestPlaceHolder2
+msgid "http://example.com/app/manifest.webapp"
+msgstr "http://example.com/app/manifest.webapp"
+
+#: projects.noProjects
+msgid ""
+"No projects. Add a new packaged app below (local directory) or a hosted app ("
+"link to a manifest file)."
+msgstr ""
+"אין פרויקט. נא להוסיף יישום ארוז חדש (תיקייה מקומית) להלן או יישום מאורח ("
+"קישור לקובץ manifest)."
+
+#: projects.manifestEditor
+msgid "Manifest Editor"
+msgstr "Manifest Editor"
+
+#: projects.manifestEditorTooltip
+msgid ""
+"Edit your app's manifest in the panel below. The Update button will save "
+"your changes and update the app."
+msgstr ""
+"עריכת ה־manifest של יישום זה בחלונית. כפתור העדכון ישמור את השינויים שיבוצעו "
+"ויעדכן את היישום."
+
+#: projects.manifestViewer
+msgid "Manifest Viewer"
+msgstr "Manifest Viewer"
+
+#: projects.manifestViewerTooltip
+msgid "Examine your app's manifest in the panel below"
+msgstr "בחינת ה־manifest של יישום זה בחלונית"
+
+#: projects.valid
+msgid "Valid"
+msgstr "חוקי"
+
+#: projects.error
+msgid "Error"
+msgstr "שגיאה"
+
+#: projects.warning
+msgid "Warning"
+msgstr "אזהרה"
+
+#: projects.hosted
+msgid "Hosted"
+msgstr "מאורח"
+
+#: projects.packaged
+msgid "Packaged"
+msgstr "ארוז"
+
+#: help.title
+msgctxt "help.title"
+msgid "App Manager"
+msgstr "מנהל יישומים"
+
+#: help.close
+msgid "Close"
+msgstr "סגירה"
+
+#: help.intro
+msgid ""
+"This tool will help you build and install web apps on compatible devices ("
+"i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the "
+"validation and installation process of your app. The <strong>Device</strong> "
+"tab will give you information about the connected device. Use the bottom "
+"toolbar to connect to a device or start the simulator."
+msgstr ""
+"כלי זה עוזר בבנייה והתקנת יישומים על התקנים תואמים (כלומר Firefox OS). "
+"לשונית <strong>יישומים</strong> תסייע בתהליך האימות וההתקנה של היישומים שלך. "
+"הלשונית <strong>התקן</strong> תספק לך מידע על התקנים מחוברים. יש להשתמש "
+"בסרגל למטה כדי להתחבר להתקן או כדי להפעיל את המדמה."
+
+#: help.usefullLinks
+msgid "Useful links:"
+msgstr "קישורים שימושיים:"
+
+#: help.appMgrDoc
+msgid "Documentation: Using the App Manager"
+msgstr "תיעוד: שימוש במנהל היישומים"
+
+#: help.configuringDevice
+msgid "How to setup your Firefox OS device"
+msgstr "כיצד להגדיר את התקני Firefox OS שלך"
+
+#: help.troubleShooting
+msgid "Troubleshooting"
+msgstr "פתרון בעיות"
+
+#: help.simulatorAddon
+msgid "Install Simulator Add-on"
+msgstr "התקנת תוספת המדמה"
+
+#: help.adbHelperAddon
+msgid "Install Adb Helper Add-on"
+msgstr "התקנת תוספת מסייע עבור Adb"
