@@ -1,3 +1,4 @@
+# Tomer Cohen <tomer.mozilla@tomercohen.com>, 2015.
 #. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #. extracted from l10n/en-US/browser/chrome/browser/browser.properties, l10n/he/browser/chrome/browser/browser.properties
 msgid ""
@@ -5,15 +6,18 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-30 22:05+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-03-30 23:11+0300\n"
+"Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
+"Language-Team: Mozilla Israel\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
+"X-Project-Style: mozilla\n"
 
 #: nv_timeout
 msgid "Timed Out"
@@ -1145,7 +1149,7 @@ msgstr "האם ברצונך להפעיל שירותים מ-%1$S להצגה בס�
 #: service.install.ok.label
 #: service.install.ok.accesskey
 msgid "&Enable Services"
-msgstr ""
+msgstr "ל&אפשר שירותים"
 
 #. # LOCALIZATION NOTE (social.markpageMenu.label): %S is the name of the social provider
 #: social.markpageMenu.label
@@ -1165,12 +1169,12 @@ msgstr "%1$S אינו יכול להתחבר עם %2$S כעת."
 #: social.error.tryAgain.label
 #: social.error.tryAgain.accesskey
 msgid "&Try Again"
-msgstr ""
+msgstr "&לנסות שוב"
 
 #: social.error.closeSidebar.label
 #: social.error.closeSidebar.accesskey
 msgid "&Close This Sidebar"
-msgstr ""
+msgstr "&סגירת סרגל צד זה"
 
 #. # LOCALIZATION NOTE: %1$S is the label for the toolbar button, %2$S is the associated badge numbering that the social provider may provide.
 #: social.aria.toolbarButtonBadgeText
@@ -1198,7 +1202,7 @@ msgstr "שימוש בכתובת דואר אלקטרוני קיימת"
 #: identity.newIdentity.label
 #: identity.newIdentity.accessKey
 msgid "Us&e a different email"
-msgstr ""
+msgstr "שימוש בכתובת דואר אלקטרוני &אחרת"
 
 #: identity.newIdentity.email.placeholder
 msgid "Email"
@@ -1212,7 +1216,7 @@ msgstr "נא להזין את כתובת הדואר האלקטרוני שלך כ�
 #: identity.next.label
 #: identity.next.accessKey
 msgid "&Next"
-msgstr ""
+msgstr "ה&בא"
 
 #. # LOCALIZATION NOTE: shown in the popup notification when a user successfully logs into a website
 #. # LOCALIZATION NOTE (identity.loggedIn.description): %S is the user's identity (e.g. user@example.com)
@@ -1223,7 +1227,7 @@ msgstr "מחובר בתור: %S"
 #: identity.loggedIn.signOut.label
 #: identity.loggedIn.signOut.accessKey
 msgid "Sign &Out"
-msgstr ""
+msgstr "הת&נתקות"
 
 #. # LOCALIZATION NOTE (getUserMedia.shareCamera.message, getUserMedia.shareMicrophone.message,
 #. #                    getUserMedia.shareScreen.message, getUserMedia.shareCameraAndMicrophone.message,
@@ -1252,17 +1256,17 @@ msgstr "האם לשתף את המיקרופון והמסך שלך עם %S?"
 #: getUserMedia.selectWindow.label
 #: getUserMedia.selectWindow.accesskey
 msgid "&Window to share:"
-msgstr ""
+msgstr "&חלון לשיתוף:"
 
 #: getUserMedia.selectScreen.label
 #: getUserMedia.selectScreen.accesskey
 msgid "&Screen to share:"
-msgstr ""
+msgstr "&מסך לשיתוף:"
 
 #: getUserMedia.selectApplication.label
 #: getUserMedia.selectApplication.accesskey
 msgid "&Application to share:"
-msgstr ""
+msgstr "&יישום לשיתוף:"
 
 #: getUserMedia.noVideo.label
 msgid "No Video"
@@ -1304,7 +1308,7 @@ msgstr "#1 (חלון אחד);#1 (#2 חלונות)"
 #: getUserMedia.shareSelectedDevices.label
 #: getUserMedia.shareSelectedDevices.accesskey
 msgid "&Share Selected Device;Share Selected Devices"
-msgstr ""
+msgstr "&שיתוף התקן נבחר;שיתוף התקנים נבחרים"
 
 #: getUserMedia.shareScreen.label
 msgid "Share Screen"
@@ -1325,17 +1329,17 @@ msgstr "שיתוף פריטים נבחרים"
 #: getUserMedia.always.label
 #: getUserMedia.always.accesskey
 msgid "&Always Share"
-msgstr ""
+msgstr "לשתף &תמיד"
 
 #: getUserMedia.denyRequest.label
 #: getUserMedia.denyRequest.accesskey
 msgid "&Don't Share"
-msgstr ""
+msgstr "&לא לשתף"
 
 #: getUserMedia.never.label
 #: getUserMedia.never.accesskey
 msgid "&Never Share"
-msgstr ""
+msgstr "ל&עולם לא לשתף"
 
 #: getUserMedia.sharingCamera.message2
 msgid "You are currently sharing your camera with this page."
@@ -1363,22 +1367,22 @@ msgstr "חלון כלשהו משותף כעת עם דף זה."
 
 #: getUserMedia.sharingBrowser.message
 msgid "You are currently sharing a tab with this page."
-msgstr ""
+msgstr "לשונית כלשהי משותפת כעת עם דף זה"
 
 #: getUserMedia.continueSharing.label
 #: getUserMedia.continueSharing.accesskey
 msgid "&Continue Sharing"
-msgstr ""
+msgstr "ה&משך שיתוף"
 
 #: getUserMedia.stopSharing.label
 #: getUserMedia.stopSharing.accesskey
 msgid "&Stop Sharing"
-msgstr ""
+msgstr "&הפסקת שיתוף"
 
 #: getUserMedia.sharingMenu.label
 #: getUserMedia.sharingMenu.accesskey
 msgid "Tabs sharing &devices"
-msgstr ""
+msgstr "&התקני שיתוף לשוניות"
 
 #. # LOCALIZATION NOTE (getUserMedia.sharingMenuCamera
 #. #                    getUserMedia.sharingMenuMicrophone,
@@ -1422,7 +1426,7 @@ msgstr "%S (חלון)"
 
 #: getUserMedia.sharingMenuBrowser
 msgid "%S (tab)"
-msgstr ""
+msgstr "%S (לשונית)"
 
 #: getUserMedia.sharingMenuCameraMicrophone
 msgid "%S (camera and microphone)"
@@ -1442,19 +1446,19 @@ msgstr "%S (מצלמה, מיקרופון וחלון)"
 
 #: getUserMedia.sharingMenuCameraMicrophoneBrowser
 msgid "%S (camera, microphone and tab)"
-msgstr ""
+msgstr "%S (מצלמה, מיקרופון ולשונית)"
 
 #: getUserMedia.sharingMenuCameraApplication
 msgid "%S (camera and application)"
-msgstr ""
+msgstr "%S (מצלמה ויישום)"
 
 #: getUserMedia.sharingMenuCameraScreen
 msgid "%S (camera and screen)"
-msgstr ""
+msgstr "%S (מצלמה ומסך)"
 
 #: getUserMedia.sharingMenuCameraWindow
 msgid "%S (camera and window)"
-msgstr ""
+msgstr "%S (מצלמה וחלון)"
 
 #: getUserMedia.sharingMenuCameraBrowser
 msgid "%S (camera and tab)"
@@ -1474,7 +1478,7 @@ msgstr "%S (מיקרופון וחלון)"
 
 #: getUserMedia.sharingMenuMicrophoneBrowser
 msgid "%S (microphone and tab)"
-msgstr ""
+msgstr "%S (מיקרופון ולשונית)"
 
 #. # LOCALIZATION NOTE(getUserMedia.sharingMenuUnknownHost): this is used for the website
 #. # origin for the sharing menu if no readable origin could be deduced from the URL.
@@ -1491,7 +1495,7 @@ msgstr ""
 
 #: emeNotifications.drmContentPlaying.button.label
 msgid "Configure…"
-msgstr ""
+msgstr "הגדרה…"
 
 #: emeNotifications.drmContentPlaying.button.accesskey
 msgid "C"
@@ -1504,7 +1508,7 @@ msgstr ""
 
 #: emeNotifications.drmContentDisabled.button.label
 msgid "Enable DRM"
-msgstr ""
+msgstr "הפעלת ניהול זכויות דיגי"
 
 #: emeNotifications.drmContentDisabled.button.accesskey
 msgid "E"
@@ -1514,7 +1518,7 @@ msgstr ""
 #: emeNotifications.drmContentDisabled.learnMoreLabel
 msgctxt "emeNotifications.drmContentDisabled.learnMoreLabel"
 msgid "Learn More"
-msgstr ""
+msgstr "מידע נוסף"
 
 #. # LOCALIZATION NOTE(emeNotifications.drmContentCDMNotSupported.message): NB: inserted via innerHTML, so please don't use <, > or & in this string. %1$S is brandShortName, %2$S will be the 'learn more' link
 #: emeNotifications.drmContentCDMNotSupported.message
@@ -1560,17 +1564,17 @@ msgstr ""
 #: emeNotifications.optionsButton.label
 msgctxt "emeNotifications.optionsButton.label"
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 #: emeNotifications.optionsButton.accesskey
 msgctxt "emeNotifications.optionsButton.accesskey"
 msgid "O"
-msgstr ""
+msgstr "א"
 
 #: emeNotifications.unknownDRMSoftware
 msgctxt "emeNotifications.unknownDRMSoftware"
 msgid "Unknown"
-msgstr ""
+msgstr "לא ידוע"
 
 #. # LOCALIZATION NOTE - %S is brandShortName
 #: slowStartup.message
@@ -1580,26 +1584,26 @@ msgstr "נראה כי %S עולה… לאט…"
 #: slowStartup.helpButton.label
 #: slowStartup.helpButton.accesskey
 msgid "&Learn How to Speed It Up"
-msgstr ""
+msgstr "&מידע נוסף על שיפור ביצועים"
 
 #: slowStartup.disableNotificationButton.label
 #: slowStartup.disableNotificationButton.accesskey
 msgid "Don't Tell Me &Again"
-msgstr ""
+msgstr "לא לשאול &שוב"
 
 #. # LOCALIZATION NOTE  - %S is brandShortName
 #: flashHang.message
 msgid "%S changed some Adobe Flash settings to improve performance."
-msgstr ""
+msgstr "%S שינה מספר הגדרות של Adobe Flash כדי לשפר את הביצועים."
 
 #: flashHang.helpButton.label
 msgctxt "flashHang.helpButton.label"
 msgid "Learn More…"
-msgstr ""
+msgstr "מידע נוסף…"
 
 #: flashHang.helpButton.accesskey
 msgid "L"
-msgstr ""
+msgstr "מ"
 
 #. # LOCALIZATION NOTE(customizeTips.tip0): %1$S will be replaced with the text defined
 #. # in customizeTips.tip0.hint, %2$S will be replaced with brandShortName, %3$S will
@@ -1627,19 +1631,19 @@ msgstr "מידע נוסף"
 #. # %S is brandShortName
 #: appmenu.restartNeeded.description
 msgid "Restart %S to apply updates"
-msgstr ""
+msgstr "יש להפעיל מחדש את %S להשלמת העדכונים"
 
 #: appmenu.updateFailed.description
 msgid "Background update failed, please download update"
-msgstr ""
+msgstr "כישלון בביצוע עדכון ברקע, בבקשה להוריד עדכון"
 
 #: appmenu.restartBrowserButton.label
 msgid "Restart %S"
-msgstr ""
+msgstr "הפעלה מחדש של %S"
 
 #: appmenu.downloadUpdateButton.label
 msgid "Download Update"
-msgstr ""
+msgstr "הורדת עדכון"
 
 #. # LOCALIZATION NOTE : FILE Reading List and Reader View are feature names and therefore typically used as proper nouns.
 #. # Pre-landed string for bug 1124153
@@ -1648,131 +1652,134 @@ msgstr ""
 #. # http://developer.mozilla.org/en/docs/Localization_and_Plurals
 #: readingList.sidebar.showMore.tooltip
 msgid "Show %S more item;Show %S more items"
-msgstr ""
+msgstr "הצגת פריט נוסף; הצגת %S פריטים נוספים"
 
 #. # Pre-landed strings for bug 1131457 / bug 1131461
 #: readingList.urlbar.add
 msgid "Add page to Reading List"
-msgstr ""
+msgstr "הוספת דף לרשימת הקריאה"
 
 #: readingList.urlbar.addDone
 msgid "Page added to Reading List"
-msgstr ""
+msgstr "הדף התווסף לרשימת הקריאה"
 
 #: readingList.urlbar.remove
 msgid "Remove page from Reading List"
-msgstr ""
+msgstr "הסרת דף מרשימת הקריאה"
 
 #: readingList.urlbar.removeDone
 msgid "Page removed from Reading List"
-msgstr ""
+msgstr "הדף הוסר מרשימת הקריאה"
 
 #. # Pre-landed strings for bug 1133610 & bug 1133611
 #. # LOCALIZATION NOTE(readingList.promo.noSync.label): %S a link, using the text from readingList.promo.noSync.link
 #: readingList.promo.noSync.label
 msgid "Access your Reading List on all your devices. %S"
-msgstr ""
+msgstr "ניתן לגשת אל רשימת הקריאה מכל ההתקנים שלך. %S"
 
 #. # LOCALIZATION NOTE(readingList.promo.noSync.link): %S is syncBrandShortName
 #: readingList.promo.noSync.link
 msgid "Get started with %S."
-msgstr ""
+msgstr "התחלת השימוש ב־%S."
 
 #. # LOCALIZATION NOTE(readingList.promo.hasSync.label): %S is syncBrandShortName
 #: readingList.promo.hasSync.label
 msgid ""
 "You can now access your Reading List on all your devices connected by %S."
 msgstr ""
+"ניתן כעת לגשת אל רשימת הקריאה שלך מכל ההתקנים שלך המחוברים לחשבון באמצעות %S."
 
 #. # Pre-landed strings for bug 1136570
 #: readerView.promo.firstDetectedArticle.title
 msgid "Read and save articles easily"
-msgstr ""
+msgstr "קריאה ושמירת מאמרים בקלות"
 
 #: readerView.promo.firstDetectedArticle.body
 msgid ""
 "Click the book to make articles easier to read and use the plus to save them "
 "for later."
 msgstr ""
+"לחיצה על הספר הופכת את המאמר לקל יותר לקריאה, ולחיצה על סימן הפלוס מאפשרת "
+"לשמור אותו למועד מאוחר יותר."
 
 #: readingList.promo.firstUse.exitTourButton
 msgid "Close"
-msgstr ""
+msgstr "סגירה"
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.tourDoneButton):
 #. # » is used as an indication that pressing this button progresses through the tour.
 #: readingList.promo.firstUse.tourDoneButton
 msgid "Start Reading »"
-msgstr ""
+msgstr "התחלת קריאה »"
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.readingList.multipleStepsTitle):
 #. # This is used when there are multiple steps in the tour.
 #. # %1$S is the current step's title (readingList.promo.firstUse.*.title), %2$S is the current step number of the tour, %3$S is the total number of steps.
 #: readingList.promo.firstUse.multipleStepsTitle
 msgid "%1$S (%2$S/%3$S)"
-msgstr ""
+msgstr "%1$S (%2$S/%3$S)"
 
 #: readingList.promo.firstUse.readingList.title
 msgid "Reading List"
-msgstr ""
+msgstr "רשימת קריאה"
 
 #: readingList.promo.firstUse.readingList.body
 msgid "Save articles for later and find them easily when you need them."
-msgstr ""
+msgstr "שמירת מאמרים למועד מאוחר יותר ואיתור מהיר שלהם בעת הצורך."
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.readingList.moveToButton):
 #. # » is used as an indication that pressing this button progresses through the tour.
 #: readingList.promo.firstUse.readingList.moveToButton
 msgid "Next: Easy finding »"
-msgstr ""
+msgstr "הבא: איתור מהיר »"
 
 #: readingList.promo.firstUse.readerView.title
 msgid "Reader View"
-msgstr ""
+msgstr "תצוגת קריאה"
 
 #: readingList.promo.firstUse.readerView.body
 msgid "Remove clutter so you can focus exactly on what you want to read."
-msgstr ""
+msgstr "הסרת חסמים כדי שיהיה קל יותר להתמקד בתוכן."
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.readerView.moveToButton):
 #. # » is used as an indication that pressing this button progresses through the tour.
 #: readingList.promo.firstUse.readerView.moveToButton
 msgid "Next: Easy reading »"
-msgstr ""
+msgstr "הבא: קריאה מהירה »"
 
 #: readingList.promo.firstUse.syncNotSignedIn.title
 msgctxt "readingList.promo.firstUse.syncNotSignedIn.title"
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.syncNotSignedIn.body): %S is brandShortName
 #: readingList.promo.firstUse.syncNotSignedIn.body
 msgid "Sign in to access your Reading List everywhere you use %S."
-msgstr ""
+msgstr "יש להתחבר אל %S כדי לגשת לרשימת הקריאה שלך בכל מקום."
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.syncNotSignedIn.moveToButton):
 #. # » is used as an indication that pressing this button progresses through the tour.
 #: readingList.promo.firstUse.syncNotSignedIn.moveToButton
 msgctxt "readingList.promo.firstUse.syncNotSignedIn.moveToButton"
 msgid "Next: Easy access »"
-msgstr ""
+msgstr "הבא: גישה קלה »"
 
 #: readingList.promo.firstUse.syncSignedIn.title
 msgctxt "readingList.promo.firstUse.syncSignedIn.title"
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.syncSignedIn.body): %S is brandShortName
 #: readingList.promo.firstUse.syncSignedIn.body
 msgid "Open your Reading List articles everywhere you use %S."
-msgstr ""
+msgstr "פתיחת מאמרים מרשימת הקריאה שלך בכל מקום באמצעות %S."
 
 #. # LOCALIZATION NOTE(readingList.promo.firstUse.syncSignedIn.moveToButton):
 #. # » is used as an indication that pressing this button progresses through the tour.
 #: readingList.promo.firstUse.syncSignedIn.moveToButton
 msgctxt "readingList.promo.firstUse.syncSignedIn.moveToButton"
 msgid "Next: Easy access »"
-msgstr ""
+msgstr "הבא: גישה קלה »"
 
 #. # Pre-landed strings for bug 1136570
 #. # LOCALIZATION NOTE(readingList.prepopulatedArticles.learnMore):
@@ -1784,21 +1791,21 @@ msgstr ""
 #. # %S is brandShortName
 #: readingList.prepopulatedArticles.learnMore
 msgid "Learn how %S makes reading more pleasant"
-msgstr ""
+msgstr "למדו כיצד %S הופך את הקריאה למהנה יותר"
 
 #. # LOCALIZATION NOTE(readingList.prepopulatedArticles.supportReadingList):
 #. # This will show as an item in the Reading List, and will link to a SUMO article describing the Reading List:
 #. #   https://support.mozilla.org/kb/save-sync-and-read-pages-anywhere-reading-list
 #: readingList.prepopulatedArticles.supportReadingList
 msgid "Save, sync and read pages anywhere with Reading List"
-msgstr ""
+msgstr "שמירה, סנכרון וקריאת דפים בכל מקום עם רשימת הקריאה"
 
 #. # LOCALIZATION NOTE(readingList.prepopulatedArticles.supportReaderView):
 #. # This will show as an item in the Reading List, and will link to a SUMO article describing the Reader View:
 #. #   https://support.mozilla.org/kb/enjoy-clutter-free-web-pages-reader-view
 #: readingList.prepopulatedArticles.supportReaderView
 msgid "Enjoy clutter-free Web pages with Reader View"
-msgstr ""
+msgstr "ליהנות מקריאה ללא חסמים עם תצוגת הקריאה"
 
 #. # LOCALIZATION NOTE(readingList.prepopulatedArticles.learnMore):
 #. # This will show as an item in the Reading List, and will link to a SUMO article describing Sync:
@@ -1806,4 +1813,4 @@ msgstr ""
 #. # %S is syncBrandShortName
 #: readingList.prepopulatedArticles.supportSync
 msgid "Access your Reading List anywhere with %S"
-msgstr ""
+msgstr "גישה לרשימת הקריאה בכל מקום עם %S"

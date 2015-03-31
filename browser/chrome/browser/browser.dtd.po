@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-30 22:05+0300\n"
-"PO-Revision-Date: 2015-03-30 22:18+0300\n"
+"PO-Revision-Date: 2015-03-30 22:45+0300\n"
 "Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
 "Language-Team: Mozilla Israel\n"
 "Language: he\n"
@@ -589,12 +589,12 @@ msgstr "A"
 
 #: webapps.label
 msgid "Apps"
-msgstr ""
+msgstr "יישומונים"
 
 #: webapps.accesskey
 msgctxt "webapps.accesskey"
 msgid "p"
-msgstr ""
+msgstr "י"
 
 #: webDeveloperMenu.label
 #: webDeveloperMenu.accesskey
@@ -1056,24 +1056,24 @@ msgstr "j"
 #. search providers:  "Search for <used typed keywords> with:"
 #: searchFor.label
 msgid "Search for "
-msgstr ""
+msgstr "חיפוש עבור"
 
 #: searchWith.label
 msgid " with:"
-msgstr ""
+msgstr " עם:"
 
 #. The wording of this string should be as close as possible to
 #. searchFor.label and searchWith.label. This string will be used instead of
 #. them when the user has not typed any keyword.
 #: searchWithHeader.label
 msgid "Search with:"
-msgstr ""
+msgstr "חיפוש עם:"
 
 #. This string won't wrap, so if the translated string is longer,
 #. consider translating it as if it said only "Search Settings".
 #: changeSearchSettings.button
 msgid "Change Search Settings"
-msgstr ""
+msgstr "שינוי הגדרות חיפוש"
 
 #: tabView.commandkey
 msgctxt "tabView.commandkey"
@@ -1272,12 +1272,12 @@ msgstr "שליחת &וידאו בדוא״ל…"
 
 #: castVideoCmd.label
 msgid "Send Video To Device"
-msgstr ""
+msgstr "שליחת וידאו להתקן"
 
 #: castVideoCmd.accesskey
 msgctxt "castVideoCmd.accesskey"
 msgid "e"
-msgstr ""
+msgstr "ש"
 
 #: emailAudioCmd.label
 #: emailAudioCmd.accesskey
