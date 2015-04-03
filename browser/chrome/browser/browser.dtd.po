@@ -1,22 +1,18 @@
-# Tomer Cohen <tomer.mozilla@tomercohen.com>, 2015.
 #. extracted from l10n/en-US/browser/chrome/browser/browser.dtd, l10n/he/browser/chrome/browser/browser.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-30 22:05+0300\n"
-"PO-Revision-Date: 2015-03-30 22:45+0300\n"
-"Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
-"Language-Team: Mozilla Israel\n"
-"Language: he\n"
+"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
-"X-Project-Style: mozilla\n"
 
 #. This will be appended to the window's title
 #. inside the private browsing mode
@@ -150,7 +146,6 @@ msgstr "ה&דפסה…"
 
 #: printCmd.commandkey
 msgctxt "printCmd.commandkey"
-"printCmd.commandkey"
 msgid "p"
 msgstr "p"
 
@@ -215,12 +210,9 @@ msgid "i"
 msgstr "i"
 
 #: mirrorTabCmd.label
-msgid "Mirror Tab"
-msgstr "שכפול לשונית"
-
 #: mirrorTabCmd.accesskey
-msgid "m"
-msgstr "כ"
+msgid "&Mirror Tab"
+msgstr "ש&כפול לשונית"
 
 #. LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 #. These should match what Safari and other Apple applications use on OS X Lion.
@@ -352,7 +344,7 @@ msgstr "l"
 #. -  or use "..." if \u2026 doesn't suit traditions in your locale.
 #: findShareServices.label
 msgid "Find more Share services…"
-msgstr ""
+msgstr "איתור שרותי שיתוף נוספים…"
 
 #: sharePageCmd.label
 #: sharePageCmd.accesskey
@@ -360,46 +352,29 @@ msgid "Share Thi&s Page"
 msgstr "&שיתוף דף זה"
 
 #: sharePageCmd.commandkey
-msgctxt "sharePageCmd.commandkey"
 msgid "S"
 msgstr "S"
 
 #. LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys
 #: shareLink.label
-msgid "Share This Link"
-msgstr "שיתוף קישור זה"
-
 #: shareLink.accesskey
-msgctxt "shareLink.accesskey"
-msgid "h"
-msgstr "ק"
+msgid "S&hare This Link"
+msgstr "שיתוף &קישור זה"
 
 #: shareImage.label
-msgid "Share This Image"
-msgstr "שיתוף תמונה זו"
-
 #: shareImage.accesskey
-msgctxt "shareImage.accesskey"
-msgid "r"
-msgstr "מ"
+msgid "Sha&re This Image"
+msgstr "שיתוף ת&מונה זו"
 
 #: shareSelect.label
-msgid "Share Selection"
-msgstr "שיתוף בחירה"
-
 #: shareSelect.accesskey
-msgctxt "shareSelect.accesskey"
-msgid "r"
-msgstr "ב"
+msgid "Sha&re Selection"
+msgstr "שיתוף &בחירה"
 
 #: shareVideo.label
-msgid "Share This Video"
-msgstr "שיתוף וידאו זה"
-
 #: shareVideo.accesskey
-msgctxt "shareVideo.accesskey"
-msgid "r"
-msgstr "ד"
+msgid "Sha&re This Video"
+msgstr "שיתוף וי&דאו זה"
 
 #: feedsMenu.label
 msgid "Subscribe"
@@ -549,7 +524,6 @@ msgid "History"
 msgstr "היסטוריה"
 
 #: historySidebarCmd.commandKey
-msgctxt "historySidebarCmd.commandKey"
 msgid "h"
 msgstr "h"
 
@@ -588,13 +562,9 @@ msgid "A"
 msgstr "A"
 
 #: webapps.label
-msgid "Apps"
-msgstr "יישומונים"
-
 #: webapps.accesskey
-msgctxt "webapps.accesskey"
-msgid "p"
-msgstr "י"
+msgid "A&pps"
+msgstr "&יישומונים"
 
 #: webDeveloperMenu.label
 #: webDeveloperMenu.accesskey
@@ -692,7 +662,7 @@ msgstr "&ארגז הכלים של הדפדפן"
 #. -  This toolbox allows to debug the chrome of the content process in multiprocess builds.
 #: browserContentToolboxMenu.label
 msgid "Browser Content Toolbox"
-msgstr ""
+msgstr "ארגז כלים לתוכן דפדפן"
 
 #: devToolbarCloseButton.tooltiptext
 msgid "Close Developer Toolbar"
@@ -762,7 +732,6 @@ msgid "&New Window"
 msgstr "&חלון חדש"
 
 #: newNavigatorCmd.key
-msgctxt "newNavigatorCmd.key"
 msgid "N"
 msgstr "N"
 
@@ -830,10 +799,6 @@ msgstr "מ&חיקה"
 
 #: deleteCmd.key
 msgctxt "deleteCmd.key"
-"deleteCmd.key"
-"deleteCmd.key"
-"deleteCmd.key"
-"deleteCmd.key"
 msgid "D"
 msgstr "D"
 
@@ -864,7 +829,6 @@ msgstr "ניקוי היסטוריה אחרונה…"
 
 #: privateBrowsingCmd.commandkey
 msgctxt "privateBrowsingCmd.commandkey"
-"privateBrowsingCmd.commandkey"
 msgid "P"
 msgstr "P"
 
@@ -1116,7 +1080,6 @@ msgid "&Show Only This Frame"
 msgstr "&הצגת מסגרת זו בלבד"
 
 #: reloadCmd.commandkey
-msgctxt "reloadCmd.commandkey"
 msgid "r"
 msgstr "r"
 
@@ -1271,13 +1234,9 @@ msgid "Em&ail Video…"
 msgstr "שליחת &וידאו בדוא״ל…"
 
 #: castVideoCmd.label
-msgid "Send Video To Device"
-msgstr "שליחת וידאו להתקן"
-
 #: castVideoCmd.accesskey
-msgctxt "castVideoCmd.accesskey"
-msgid "e"
-msgstr "ש"
+msgid "S&end Video To Device"
+msgstr "&שליחת וידאו להתקן"
 
 #: emailAudioCmd.label
 #: emailAudioCmd.accesskey
@@ -1488,12 +1447,9 @@ msgid "Close sidebar"
 msgstr "סגור את סרגל הצד"
 
 #: quitApplicationCmdWin2.label
-msgid "Exit"
-msgstr "יציאה"
-
 #: quitApplicationCmdWin2.accesskey
-msgid "x"
-msgstr ""
+msgid "E&xit"
+msgstr "י&ציאה"
 
 #: quitApplicationCmdWin2.tooltip
 msgid "Exit &brandShorterName;"
@@ -1788,7 +1744,7 @@ msgstr "מעוניינים בכלים נוספים?"
 
 #: customizeMode.menuAndToolbars.emptyLink
 msgid "Choose from thousands of add-ons"
-msgstr "לבחור מאלפי הרחבות"
+msgstr "לבחור מאלפי תוספות"
 
 #: customizeMode.restoreDefaults
 msgid "Restore Defaults"
@@ -1898,6 +1854,7 @@ msgstr "ל&נטרל הגנה כעת"
 
 #: mixedContentBlocked2.block.label
 #: mixedContentBlocked2.block.accesskey
+msgctxt "mixedContentBlocked2.block.label mixedContentBlocked2.block.accesskey"
 msgid "&Enable protection"
 msgstr "ל&אפשר הגנה"
 
@@ -1924,21 +1881,15 @@ msgid "Options"
 msgstr "אפשרויות"
 
 #: trackingContentBlocked.unblock2.label
-msgid "Disable protection for this site"
-msgstr "ביטול הגנה עבור אתר זה"
-
 #: trackingContentBlocked.unblock2.accesskey
-msgctxt "trackingContentBlocked.unblock2.accesskey"
-msgid "D"
-msgstr "ב"
+msgid "&Disable protection for this site"
+msgstr "&ביטול הגנה עבור אתר זה"
 
 #: trackingContentBlocked.block.label
-msgid "Enable protection"
-msgstr "לאפשר הגנה"
-
 #: trackingContentBlocked.block.accesskey
-msgid "E"
-msgstr "ה"
+msgctxt "trackingContentBlocked.block.label trackingContentBlocked.block.accesskey"
+msgid "&Enable protection"
+msgstr "לאפשר &הגנה"
 
 #: trackingContentBlocked.disabled.message
 msgid "Tracking protection is disabled"
@@ -2057,66 +2008,39 @@ msgid "Thanks!"
 msgstr "תודה!"
 
 #: processHang.terminateScript.label
-msgid "Stop Script"
-msgstr "עצירת תסריט"
-
 #: processHang.terminateScript.accessKey
-msgctxt "processHang.terminateScript.accessKey"
-msgid "S"
-msgstr "ע"
+msgid "&Stop Script"
+msgstr "&עצירת תסריט"
 
 #: processHang.debugScript.label
-msgid "Debug Script"
-msgstr "ניפוי שגיאות בתסריט"
-
 #: processHang.debugScript.accessKey
-msgctxt "processHang.debugScript.accessKey"
-msgid "D"
-msgstr "נ"
+msgid "&Debug Script"
+msgstr "&ניפוי שגיאות בתסריט"
 
 #: processHang.terminatePlugin.label
-msgid "Kill Plugin"
-msgstr "חיסול תוסף חיצוני"
-
 #: processHang.terminatePlugin.accessKey
-msgctxt "processHang.terminatePlugin.accessKey"
-msgid "P"
-msgstr "ת"
+msgid "Kill &Plugin"
+msgstr "חיסול &תוסף חיצוני"
 
 #: processHang.terminateProcess.label
-msgid "Kill Web Process"
-msgstr "חיסול תהליך רשת"
-
 #: processHang.terminateProcess.accessKey
-msgid "K"
-msgstr "ר"
+msgid "&Kill Web Process"
+msgstr "חיסול תהליך &רשת"
 
 #: emeLearnMoreContextMenu.label
-msgid "Learn more about DRM…"
-msgstr "מידע נוסף על ניהול זכויות דיגיטלי…"
-
 #: emeLearnMoreContextMenu.accesskey
-msgctxt "emeLearnMoreContextMenu.accesskey"
-msgid "D"
-msgstr "ז"
+msgid "Learn more about &DRM…"
+msgstr "מידע נוסף על ניהול &זכויות דיגיטלי…"
 
 #: emeNotificationsNotNow.label
-msgid "Not now"
-msgstr "לא כעת"
-
 #: emeNotificationsNotNow.accesskey
-msgctxt "emeNotificationsNotNow.accesskey"
-msgid "N"
-msgstr "ל"
+msgid "&Not now"
+msgstr "&לא כעת"
 
 #: emeNotificationsDontAskAgain.label
-msgid "Don't ask me again"
-msgstr "לא לשאול שוב"
-
 #: emeNotificationsDontAskAgain.accesskey
-msgctxt "emeNotificationsDontAskAgain.accesskey"
-msgid "D"
-msgstr "ל"
+msgid "&Don't ask me again"
+msgstr "&לא לשאול שוב"
 
 #: readingList.label
 msgid "Reading List"

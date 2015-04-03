@@ -1,22 +1,18 @@
-# Tomer Cohen <tomer.mozilla@tomercohen.com>, 2015.
 #. extracted from l10n/en-US/browser/chrome/browser/baseMenuOverlay.dtd, l10n/he/browser/chrome/browser/baseMenuOverlay.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-30 22:05+0300\n"
-"PO-Revision-Date: 2015-03-30 22:42+0300\n"
-"Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
-"Language-Team: Mozilla Israel\n"
-"Language: he\n"
+"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
-"X-Project-Style: mozilla\n"
 
 #. This Source Code Form is subject to the terms of the Mozilla Public
 #. - License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -56,21 +52,14 @@ msgid "&Help"
 msgstr "ע&זרה"
 
 #: aboutProduct2.label
-msgid "About &brandShorterName;"
+#: aboutProduct2.accesskey
+msgid "&About &brandShorterName;"
 msgstr "אודות &brandShorterName;"
 
-#: aboutProduct2.accesskey
-msgid "A"
-msgstr ""
-
 #: productHelp2.label
-msgid "&brandShorterName; Help"
-msgstr "עזרה עבור &brandShorterName;"
-
 #: productHelp2.accesskey
-msgctxt "productHelp2.accesskey"
-msgid "H"
-msgstr "ע"
+msgid "&brandShorterName; &Help"
+msgstr "&עזרה עבור &brandShorterName;"
 
 #: helpMac.commandkey
 msgid "?"
@@ -87,12 +76,9 @@ msgid "&Restart with Add-ons Disabled…"
 msgstr "הפעלה &מחדש עם תוספות מנוטרלות…"
 
 #: healthReport2.label
-msgid "&brandShorterName; Health Report"
-msgstr "דיווח בריאות עבור &brandShorterName;"
-
 #: healthReport2.accesskey
-msgid "e"
-msgstr ""
+msgid "&brandShorterName; H&ealth Report"
+msgstr "דיווח בריאות עבור &brandShorterName;"
 
 #: helpTroubleshootingInfo.label
 #: helpTroubleshootingInfo.accesskey
@@ -105,12 +91,9 @@ msgid "&Submit Feedback…"
 msgstr "&שלח משוב…"
 
 #: helpShowTour2.label
-msgid "&brandShorterName; Tour"
-msgstr "סיור ב־&brandShorterName;"
-
 #: helpShowTour2.accesskey
-msgid "o"
-msgstr "ס"
+msgid "&brandShorterName; T&our"
+msgstr "&סיור ב־&brandShorterName;"
 
 #: preferencesCmdMac.label
 msgid "Preferences…"
