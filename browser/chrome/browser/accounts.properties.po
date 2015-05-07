@@ -1,0 +1,116 @@
+#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#. extracted from l10n/en-US/browser/chrome/browser/accounts.properties, l10n/he/browser/chrome/browser/accounts.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+
+#. # LOCALIZATION NOTE (needUserShort)
+#. # %S = Firefox Accounts brand name from syncBrand.dtd
+#: needUserShort
+msgid "%S required for sync"
+msgstr "%S נדרש כדי להפעיל את Sync"
+
+#: needUserLong
+msgid ""
+"We've rebuilt Sync to make it easier for everyone. Please upgrade to a "
+"Firefox Account to continue syncing."
+msgstr ""
+"בנינו מחדש את Sync כדי להפוך אותו לקל יותר לכולם. נא לשדרג אל Firefox "
+"Account כדי להמשיך בסנכרון."
+
+#: upgradeToFxA.label
+#: upgradeToFxA.accessKey
+msgid "&Upgrade"
+msgstr ""
+
+#. # LOCALIZATION NOTE (signInAfterUpgradeOnOtherDevice.description)
+#. # %S = Email address of user's Firefox Account
+#: signInAfterUpgradeOnOtherDevice.description
+msgid "Sync was upgraded on another device by %S. Resume syncing?"
+msgstr "Sync שודרג בהתקן אחר על־ידי %S. לחזור לסנכרון?"
+
+#: signInAfterUpgradeOnOtherDevice.label
+#: signInAfterUpgradeOnOtherDevice.accessKey
+msgid "&Sign In"
+msgstr ""
+
+#. # LOCALIZATION NOTE (needVerifiedUserShort, needVerifiedUserLong)
+#. # %S = Email address of user's Firefox Account
+#: needVerifiedUserShort
+msgid "%S not verified"
+msgstr "הכתובת %S טרם אומתה"
+
+#: needVerifiedUserLong
+msgid "Please click the verification link in the email sent to %S"
+msgstr "נא ללחוץ על קישור האימות בהודעת הדואר האלקטרוני שנשלחה לכתובת %S"
+
+#: resendVerificationEmail.label
+#: resendVerificationEmail.accessKey
+msgid "&Resend"
+msgstr ""
+
+#: forgetMigration.label
+#: forgetMigration.accessKey
+msgid "&Forget"
+msgstr ""
+
+#: unlinkMigration.label
+#: unlinkMigration.accessKey
+msgid "Un&link Sync"
+msgstr ""
+
+#: unlinkVerificationTitle
+msgid "Unlink old version of Sync?"
+msgstr "האם לבטל קישור לגרסה קודמת של Sync?"
+
+#: unlinkVerificationDescription
+msgid ""
+"If you no longer want to be reminded about upgrading Sync, you can unlink "
+"your old Sync account to remove it."
+msgstr ""
+"כדי להפסיק לקבל תזכורות בדבר שדרוג Sync, יש להסיר את הקישור לחשבון Sync הישן "
+"שלך ולהסיר אותו."
+
+#: unlinkVerificationConfirm
+msgid "Unlink"
+msgstr "ביטול קישור"
+
+#. # These strings are used in a dialog we display after the user requests we resend
+#. # a verification email.
+#: verificationSentTitle
+msgid "Verification Sent"
+msgstr "הודעת האימות נשלחה"
+
+#. # LOCALIZATION NOTE (verificationSentHeading) - %S = Email address of user's Firefox Account
+#: verificationSentHeading
+msgid "A verification link has been sent to %S"
+msgstr "קישור לאימות נשלח לכתובת %S"
+
+#: verificationSentDescription
+msgid "Please check your email and click the link to begin syncing."
+msgstr ""
+"בבקשה לבדוק את תיבת דואר אלקטרוני זו וללחוץ על קישור האימות כדי להתחיל "
+"בסנכרון."
+
+#: verificationNotSentTitle
+msgid "Unable to Send Verification"
+msgstr "לא ניתן לשלוח אימות"
+
+#: verificationNotSentHeading
+msgid "We are unable to send a verification mail at this time"
+msgstr "לא הצלחנו לשלוח כעת את הודעת אימות החשבון"
+
+#: verificationNotSentDescription
+msgid "Please try again later."
+msgstr "נא לנסות שוב מאוחר יותר."
