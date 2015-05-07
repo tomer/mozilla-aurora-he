@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,12 @@ msgstr "שגיאת אבטחה: תוכן ב־%S עשוי לא להיטען או �
 #: CheckSameOriginError
 msgid "Security Error: Content at %S may not load data from %S."
 msgstr "שגיאת אבטחה: תוכן ב־%S עלול לא לטעון מידע מתוך %S."
+
+#: ExternalDataError
+msgid ""
+"Security Error: Content at %S attempted to load %S, but may not load "
+"external data when being used as an image. "
+msgstr ""
 
 #. # LOCALIZATION NOTE (GetPropertyDeniedOrigins):
 #. # %1$S is the origin of the script which was denied access.

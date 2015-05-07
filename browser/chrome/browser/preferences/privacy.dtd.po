@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,23 +30,19 @@ msgid "n"
 msgstr "ס"
 
 #: trackingProtection.label
-msgid "Prevent sites from tracking me"
-msgstr ""
-
 #: trackingProtection.accesskey
-msgid "m"
-msgstr ""
+msgid "Prevent sites fro&m tracking me"
+msgstr "מני&עת מעקב מאתרים"
 
 #: trackingProtectionLearnMore.label
 msgid "Learn more"
-msgstr ""
+msgstr "מידע נוסף"
 
 #: doNotTrackInfo.label
 msgid "Learn More"
 msgstr "מידע נוסף"
 
 #: history.label
-msgctxt "history.label"
 msgid "History"
 msgstr "היסטוריה"
 
@@ -56,32 +52,22 @@ msgstr "סרגל המיקום"
 
 #: locbar.suggest.label
 msgid "When using the location bar, suggest:"
-msgstr ""
+msgstr "כאשר משתמשים בשורת המיקום, יוצגו המלצות עבור:"
 
 #: locbar.history.label
-msgctxt "locbar.history.label"
-msgid "History"
-msgstr "היסטוריה"
-
 #: locbar.history.accesskey
-msgid "H"
-msgstr ""
+msgid "&History"
+msgstr "&היסטוריה"
 
 #: locbar.bookmarks.label
-msgid "Bookmarks"
-msgstr "סימניות"
-
 #: locbar.bookmarks.accesskey
-msgid "k"
-msgstr ""
+msgid "Boo&kmarks"
+msgstr "&סימניות"
 
 #: locbar.openpage.label
-msgid "Open tabs"
-msgstr ""
-
 #: locbar.openpage.accesskey
-msgid "O"
-msgstr ""
+msgid "&Open tabs"
+msgstr "&לשוניות פתוחות"
 
 #: acceptCookies.label
 #: acceptCookies.accesskey

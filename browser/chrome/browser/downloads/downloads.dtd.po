@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -110,35 +110,29 @@ msgstr "ניקוי רשימת &ההורדות"
 #. This command may be shown in the context menu, as a menu button item, or as
 #. a text link when malware or potentially unwanted downloads are blocked.
 #: cmd.unblock.label
-msgid "Unblock"
-msgstr ""
-
 #: cmd.unblock.accesskey
-msgid "U"
-msgstr ""
+msgid "&Unblock"
+msgstr "ה&סרת חסימה"
 
 #. This command may be shown in the context menu or as a menu button label
 #. when malware or potentially unwanted downloads are blocked.
 #: cmd.removeFile.label
-msgid "Remove File"
-msgstr ""
-
 #: cmd.removeFile.accesskey
-msgid "m"
-msgstr ""
+msgid "Re&move File"
+msgstr "ה&סרת קובץ"
 
 #. Shown as a tag before the file name for some types of blocked downloads.
 #. Note: This string doesn't exist in the UI yet.  See bug 1053890.
 #: blocked.label
 msgid "BLOCKED"
-msgstr ""
+msgstr "נחסם"
 
 #. Shown as a text link for some types of blocked downloads, for example
 #. malware, when there is an associated explanation page on the Mozilla site.
 #. Note: This string doesn't exist in the UI yet.  See bug 1053890.
 #: learnMore.label
 msgid "Learn More"
-msgstr ""
+msgstr "מידע נוסף"
 
 #. LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
 #. This string is shown at the bottom of the Downloads Panel when all the
@@ -166,7 +160,7 @@ msgstr "אין הורדות"
 #. This string is shown when there are no items in the Downloads Panel.
 #: downloadsPanelEmpty.label
 msgid "No downloads for this session."
-msgstr ""
+msgstr "אין הורדות בהפעלה זו."
 
 #. This string is shown when some search terms are specified, but there are no
 #. results in the Downloads view.

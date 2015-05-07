@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,10 @@ msgstr ""
 #. This Source Code Form is subject to the terms of the Mozilla Public
 #. - License, v. 2.0. If a copy of the MPL was not distributed with this
 #. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
-#: charsetMenu.label
-#: charsetMenu.accesskey
-msgid "&Character Encoding"
-msgstr "&קידוד תווים"
+#: charsetMenu2.label
+msgid "Text Encoding"
+msgstr ""
+
+#: charsetMenu2.accesskey
+msgid "c"
+msgstr ""

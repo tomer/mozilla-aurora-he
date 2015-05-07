@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1025,6 +1025,15 @@ msgstr "האישור איננו מהיימן מאחר הוא חתום עצמית
 msgid ""
 "The certificate is not trusted because the issuer certificate is unknown."
 msgstr "האישור איננו מהימן מאחר שהגורם המנפיק אינו ידוע."
+
+#: certErrorTrust_UnknownIssuer2
+msgid ""
+"The server might not be sending the appropriate intermediate certificates."
+msgstr ""
+
+#: certErrorTrust_UnknownIssuer3
+msgid "An additional root certificate may need to be imported."
+msgstr ""
 
 #: certErrorTrust_CaInvalid
 msgid ""

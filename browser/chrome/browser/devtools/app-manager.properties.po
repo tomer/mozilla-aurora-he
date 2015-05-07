@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,15 @@ msgstr ""
 msgid ""
 "The App Manager will be removed in a future release.  Your projects have "
 "been migrated to WebIDE."
-msgstr ""
+msgstr "היישום App Manager יוסר בגרסה עתידית. הפרויקטים שלך הותאמו ל־WebIDE."
 
 #: index.launchWebIDE
 msgid "Launch WebIDE"
-msgstr ""
+msgstr "הפעלת WebIDE"
 
 #: index.readMoreAboutWebIDE
 msgid "Read More"
-msgstr ""
+msgstr "מידע נוסף"
 
 #. # LOCALIZATION NOTE (device.deviceSize): %1$S is the device's width, %2$S is
 #. # the device's height, %3$S is the device's pixel density.

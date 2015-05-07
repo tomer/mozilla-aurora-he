@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,7 +129,7 @@ msgstr "מזהה התקן"
 
 #: adapterSubsysID
 msgid "Subsys ID"
-msgstr ""
+msgstr "מזהה תת־מערכת"
 
 #: adapterDrivers
 msgid "Adapter Drivers"
@@ -161,7 +161,7 @@ msgstr "מזהה התקן (GPU #2)"
 
 #: adapterSubsysID2
 msgid "Subsys ID (GPU #2)"
-msgstr ""
+msgstr "מזהה תת־מערכת (GPU #2)"
 
 #: adapterDrivers2
 msgid "Adapter Drivers (GPU #2)"
@@ -197,19 +197,52 @@ msgstr "גרסה שבשימוש"
 
 #: hasSeccompBPF
 msgid "Seccomp-BPF (System Call Filtering)"
+msgstr "Seccomp-BPF (System Call Filtering)"
+
+#: hasSeccompTSync
+msgid "Seccomp Thread Synchronization"
+msgstr ""
+
+#: hasUserNamespaces
+msgid "User Namespaces"
+msgstr ""
+
+#: hasPrivilegedUserNamespaces
+msgid "User Namespaces for privileged processes"
 msgstr ""
 
 #: canSandboxContent
 msgid "Content Process Sandboxing"
-msgstr ""
+msgstr "ארגז חול לתהליכי תוכן"
 
 #: canSandboxMedia
 msgid "Media Plugin Sandboxing"
-msgstr ""
+msgstr "ארגז חול לתוספים חיצוניים עבור מדיה"
 
 #. # LOCALIZATION NOTE %1$S and %2$S will be replaced with the number of remote and the total number
 #. # of windows, respectively, while %3$S will indicate whether windows are remote by default ('true'
 #. # or 'false')
 #: multiProcessStatus
 msgid "%1$S/%2$S (default: %3$S)"
+msgstr "%1$S/%2$S (בררת מחדל: %3$S)"
+
+#: asyncPanZoom
+msgid "Asynchronous Pan/Zoom"
+msgstr ""
+
+#: wheelEnabled
+msgid "wheel input enabled"
+msgstr ""
+
+#: touchEnabled
+msgid "touch input enabled"
+msgstr ""
+
+#. # LOCALIZATION NOTE %1 will be replaced with the key of a preference.
+#: wheelWarning
+msgid "async wheel input disabled due to unsupported pref: %S"
+msgstr ""
+
+#: touchWarning
+msgid "async touch input disabled due to unsupported pref: %S"
 msgstr ""

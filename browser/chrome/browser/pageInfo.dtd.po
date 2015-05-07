@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,9 +88,9 @@ msgstr "מקור מטמון:"
 msgid "Modified:"
 msgstr "שינוי אחרון:"
 
-#: generalEncoding
-msgid "Encoding:"
-msgstr "קידוד:"
+#: generalEncoding2
+msgid "Text Encoding:"
+msgstr ""
 
 #: generalMetaName
 msgid "Name"
@@ -298,3 +298,7 @@ msgstr "ס"
 #: securityView.technical.header
 msgid "Technical Details"
 msgstr "פירוט טכני"
+
+#: helpButton.label
+msgid "Help"
+msgstr ""

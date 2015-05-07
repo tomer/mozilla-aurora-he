@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,17 +26,17 @@ msgstr "לשונית חדשה"
 msgid "Customize your New Tab page"
 msgstr "התאמה אישית של דף הלשונית החדשה שלך"
 
-#: newtab.customize.enhanced
-msgid "Enhanced"
-msgstr "משופר"
+#: newtab.customize.suggested
+msgid "Show suggested and your top sites"
+msgstr ""
 
-#: newtab.customize.classic
-msgid "Classic"
-msgstr "קלאסי"
+#: newtab.customize.topsites
+msgid "Show your top sites"
+msgstr ""
 
-#: newtab.customize.blank
-msgid "Blank"
-msgstr "ריק"
+#: newtab.customize.blank2
+msgid "Show blank page"
+msgstr ""
 
 #: newtab.customize.what
 msgctxt "newtab.customize.what"

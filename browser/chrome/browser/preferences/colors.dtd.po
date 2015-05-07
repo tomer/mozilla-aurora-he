@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,24 +32,21 @@ msgid "41em"
 msgstr "41em"
 
 #: overridePageColors.label
-msgid "Override the colors specified by the page with my selections above:"
-msgstr ""
-
 #: overridePageColors.accesskey
-msgid "O"
-msgstr ""
+msgid "&Override the colors specified by the page with my selections above:"
+msgstr "שימוש ב&צבעים הנבחרים מעלה במקום הצבעים שצוינו בדף:"
 
 #: overridePageColors.always.label
 msgid "Always"
-msgstr ""
+msgstr "תמיד"
 
 #: overridePageColors.auto.label
 msgid "Only with High Contrast themes"
-msgstr ""
+msgstr "רק בערכות נושא עם ניגודיות גבוהה"
 
 #: overridePageColors.never.label
 msgid "Never"
-msgstr ""
+msgstr "לעולם לא"
 
 #: color
 msgid "Text and Background"

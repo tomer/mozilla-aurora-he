@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,7 +177,7 @@ msgstr "נסה להוריד ולהתקין מחדש את התוספת"
 #: notification.gmpPending
 msgctxt "notification.gmpPending"
 msgid "%1$S will be installed shortly."
-msgstr ""
+msgstr "התוספת %1$S תותקן בהקדם."
 
 #. #LOCALIZATION NOTE (contributionAmount2) %S is the currency amount recommended for contributions
 #: contributionAmount2
@@ -315,7 +315,7 @@ msgstr "התוספת %1$S תעודכן לאחר ש־%2$S יופעל מחדש."
 #: details.notification.gmpPending
 msgctxt "details.notification.gmpPending"
 msgid "%1$S will be installed shortly."
-msgstr ""
+msgstr "התוספת %1$S תותקן בהקדם."
 
 #. # LOCALIZATION NOTE (details.experiment.time.daysRemaining):
 #. # Semicolon-separated list of plural forms.
@@ -444,7 +444,7 @@ msgstr "הצג תוצאה אחת;הצג את כל #1 התוצאות"
 #. # view, %S is the price of the add-on including currency symbol
 #: addon.purchase.label
 msgid "Purchase for %S…"
-msgstr "רכישת %S…"
+msgstr "רכישה במחיר %S…"
 
 #: addon.purchase.tooltip
 msgid "Visit the add-ons gallery to purchase this add-on"

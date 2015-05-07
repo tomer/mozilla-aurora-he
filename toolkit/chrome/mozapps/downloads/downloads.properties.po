@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,36 +137,40 @@ msgid ""
 "If you close all Private Browsing windows now, 1 download will be canceled. "
 "Are you sure you want to leave Private Browsing?"
 msgstr ""
+"אם כל חלונות הגלישה הפרטית יסגרו כעת, הורדה אחת תבוטל. האם ברצונך לצאת ממצב "
+"גלישה פרטית?"
 
 #: leavePrivateBrowsingWindowsCancelDownloadsAlertMsgMultiple2
 msgid ""
 "If you close all Private Browsing windows now, %S downloads will be "
 "canceled. Are you sure you want to leave Private Browsing?"
 msgstr ""
+"אם כל חלונות הגלישה הפרטית יסגרו כעת, %S הורדות יבוטלו. האם ברצונך לצאת ממצב "
+"גלישה פרטית?"
 
 #: cancelDownloadsOKText
 msgid "Cancel 1 Download"
-msgstr "בטל הורדה אחת"
+msgstr "ביטול הורדה אחת"
 
 #: cancelDownloadsOKTextMultiple
 msgid "Cancel %S Downloads"
-msgstr "בטל %S הורדות"
+msgstr "ביטול %S הורדות"
 
 #: dontQuitButtonWin
 msgid "Don't Exit"
-msgstr "אל תצא"
+msgstr "לא לצאת"
 
 #: dontQuitButtonMac
 msgid "Don't Quit"
-msgstr "אל תצא"
+msgstr "לא לצאת"
 
 #: dontGoOfflineButton
 msgid "Stay Online"
-msgstr "הישאר מקוון"
+msgstr "להישאר במצב מקוון"
 
 #: dontLeavePrivateBrowsingButton2
 msgid "Stay in Private Browsing"
-msgstr ""
+msgstr "להישאר במצב גלישה פרטית"
 
 #: downloadsCompleteTitle
 msgid "Downloads Complete"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgstr "חריגות"
 
 #. Do not translate this.  Only change the numeric values if you need this dialogue box to appear bigger
 #: window.width
-msgid "36em"
+msgid "45em"
 msgstr "36em"
 
 #: treehead.sitename.label
@@ -68,7 +68,18 @@ msgstr "הר&שה"
 msgid "w"
 msgstr "w"
 
-#: button.close.label
-#: button.close.accesskey
-msgid "&Close"
-msgstr "&סגור"
+#: button.cancel.label
+msgid "Cancel"
+msgstr ""
+
+#: button.cancel.accesskey
+msgid "C"
+msgstr ""
+
+#: button.ok.label
+msgid "Save Changes"
+msgstr ""
+
+#: button.ok.accesskey
+msgid "S"
+msgstr ""

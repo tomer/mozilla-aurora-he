@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -142,22 +142,6 @@ msgstr "אישור זה יכול לזהות משתמשי דואר."
 msgid "This certificate can identify software makers."
 msgstr "אישור זה יכול לזהות יצרני תוכנה."
 
-#: certmgr.editemailcert.title
-msgid "Edit email certificate trust settings"
-msgstr "ערוך הגדרות אמון באישור דוא״ל"
-
-#: certmgr.editemailcert.edittrust
-msgid "Edit certificate trust settings:"
-msgstr "ערוך הגדרות אמון באישור:"
-
-#: certmgr.editemailcert.dotrust
-msgid "Trust the authenticity of this certificate."
-msgstr "בטח במהימנות אישור זה."
-
-#: certmgr.editemailcert.donttrust
-msgid "Do not trust the authenticity of this certificate."
-msgstr "אל תתן אמון במהימנות אישור זה."
-
 #: certmgr.deletecert.title
 msgid "Delete Certificate"
 msgstr "מחק אישור"
@@ -210,11 +194,6 @@ msgstr "&תצוגה…"
 #: certmgr.edit3.accesskey
 msgid "&Edit Trust…"
 msgstr "&ערוך אמון…"
-
-#: certmgr.editca.label
-#: certmgr.editca.accesskey
-msgid "E&dit CA Trust"
-msgstr "ערוך &אמון ברשות אישורים"
 
 #: certmgr.export.label
 #: certmgr.export.accesskey

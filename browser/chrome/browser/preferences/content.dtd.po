@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,12 +48,12 @@ msgstr "&גודל:"
 #: advancedFonts.label
 #: advancedFonts.accesskey
 msgid "&Advanced…"
-msgstr "&מתקדם..."
+msgstr "&מתקדם…"
 
 #: colors.label
 #: colors.accesskey
 msgid "&Colors…"
-msgstr "&צבעים..."
+msgstr "&צבעים…"
 
 #: languages.label
 msgid "Languages"
@@ -95,16 +95,13 @@ msgstr ""
 
 #: drmContent.label
 msgid "DRM content"
-msgstr ""
+msgstr "תוכן ניהול זכויות קניין"
 
 #: playDRMContent.label
-msgid "Play DRM content"
-msgstr ""
-
 #: playDRMContent.accesskey
-msgid "P"
-msgstr ""
+msgid "&Play DRM content"
+msgstr "ניגון תוכן ניהול &זכויות קניין"
 
 #: playDRMContent.learnMore.label
 msgid "Learn more"
-msgstr ""
+msgstr "מידע נוסף…"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,37 +20,37 @@ msgstr ""
 #: refreshProfile.dialog.title
 msgctxt "refreshProfile.dialog.title"
 msgid "Refresh &brandShortName;"
-msgstr ""
+msgstr "רענון &brandShortName;"
 
 #: refreshProfile.dialog.description1
 msgid "Start fresh to fix problems and restore performance."
-msgstr ""
+msgstr "הפעלת פרופיל רענן כדי לתקן בעיות ולשחזר ביצועים."
 
 #: refreshProfile.dialog.description2
 msgid "This will:"
-msgstr ""
+msgstr "פעולה זו:"
 
 #: refreshProfile.dialog.items.label1
 msgid "Remove your add-ons and customizations"
-msgstr ""
+msgstr "תסיר את ההתאמות האישיות ואת התוספות שלך"
 
 #: refreshProfile.dialog.items.label2
 msgid "Restore your browser settings to their defaults"
-msgstr ""
+msgstr "תשחזר את הגדרות הדפדפן לבררות המחדל"
 
 #: refreshProfile.dialog.button.label
 msgctxt "refreshProfile.dialog.button.label"
 msgid "Refresh &brandShortName;"
-msgstr ""
+msgstr "רענון &brandShortName;"
 
 #: refreshProfile.title
 msgid "Give &brandShortName; a tune up"
-msgstr ""
+msgstr "לכוונן מחדש את &brandShortName; "
 
 #: refreshProfile.button.label
 msgid "Refresh &brandShortName;…"
-msgstr ""
+msgstr "רענון &brandShortName;…"
 
 #: refreshProfile.cleaning.description
 msgid "Almost done…"
-msgstr ""
+msgstr "כמעט סיימנו…"

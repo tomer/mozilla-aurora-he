@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgstr "ברירת מחדל (%S)"
 
 #: veryLargeMinimumFontTitle
 msgid "Large minimum font size"
-msgstr ""
+msgstr "הגודל המינימלי לגופנים מאד גדול"
 
 #: veryLargeMinimumFontWarning
 msgid ""
@@ -42,10 +42,12 @@ msgid ""
 "may make it difficult or impossible to use some important configuration "
 "pages like this one."
 msgstr ""
+"נבחר גודל מינימלי לגופנים מאד גדול (יותר מ־24 פיקסלים). פעולה זו עשויה לגרום "
+"לכך שיהיה מאד קשה או אף בלתי אפשרי להשתמש בדפי הגדרות חשובים כמו זה. "
 
 #: acceptVeryLargeMinimumFont
 msgid "Keep my changes anyway"
-msgstr ""
+msgstr "להשאיר את השינויים בכל זאת"
 
 #. #### Permissions Manager
 #: cookiepermissionstext
@@ -261,12 +263,12 @@ msgstr "העוגיות הבאות תואמות לחיפוש שלך:"
 #. # removeSelectedCookied=Remove #1 Selected;Remove #1 Selected
 #: removeSelectedCookies
 msgid "Remove Selected;Remove Selected"
-msgstr ""
+msgstr "הסרת עוגייה נבחרת; הסרת עוגיות נבחרות"
 
 #. #### Offline apps
 #: offlineAppsList.height
 msgid "7em"
-msgstr ""
+msgstr "7em"
 
 #: offlineAppRemoveTitle
 msgid "Remove offline website data"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr "גלישת שורות ארוכות"
 
 #: formPostSecureToInsecureWarning.title
 msgid "Security Warning"
-msgstr ""
+msgstr "אזהרת אבטחה"
 
 #: formPostSecureToInsecureWarning.message
 msgid ""
@@ -52,7 +52,11 @@ msgid ""
 "\n"
 "Are you sure you want to send this information?"
 msgstr ""
+"המידע שיוכנס בדף זה יישלח בחיבור לא מאובטח וניתן יהיה לקריאה של גורם צד־"
+"שלישי. \n"
+"\n"
+"האם ברצונך לשלוח כך את המידע הזה?"
 
 #: formPostSecureToInsecureWarning.continue
 msgid "Continue"
-msgstr ""
+msgstr "המשך"

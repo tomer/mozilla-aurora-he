@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,17 +38,3 @@ msgstr "התקנה (%S)"
 #: installButtonLabel
 msgid "Install Now"
 msgstr "התקן כעת"
-
-#: installComplete
-msgid ""
-"Software Installation is complete. You will have to restart %S for changes "
-"to take effect."
-msgstr "התקנת התוכנה הסתיימה. עליך להפעיל מחדש את %S כדי שהשינויים יכנסו לתוקף."
-
-#: installCompleteTitle
-msgid "Installation Complete"
-msgstr "ההתקנה הושלמה"
-
-#: error-203
-msgid "Error Installing Item"
-msgstr "שגיאה בהתקנת פריט"

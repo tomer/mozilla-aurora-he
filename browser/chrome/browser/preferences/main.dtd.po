@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,20 +87,14 @@ msgid "&Always ask me where to save files"
 msgstr "שאל תמיד &היכן לשמור קבצים"
 
 #: alwaysCheckDefault2.label
-msgid "Always check if &brandShortName; is your default browser"
-msgstr ""
-
 #: alwaysCheckDefault2.accesskey
-msgid "w"
-msgstr "ת"
+msgid "Al&ways check if &brandShortName; is your default browser"
+msgstr "&תמיד לבדוק אם &brandShortName; הוא דפדפן בררת מחדל"
 
 #: setAsMyDefaultBrowser2.label
-msgid "Make Default"
-msgstr ""
-
 #: setAsMyDefaultBrowser2.accesskey
-msgid "D"
-msgstr ""
+msgid "Make &Default"
+msgstr "להגדיר כדפדפן בררת &מחדל"
 
 #: isDefault.label
 msgid "&brandShortName; is currently your default browser"
@@ -112,12 +106,14 @@ msgstr "&brandShortName; אינו דפדפן בררת המחדל שלך"
 
 #: separateProfileMode.label
 msgid "Allow &brandShortName; and Firefox to run at the same time"
-msgstr ""
+msgstr "לאפשר ל־&brandShortName; ול־Firefox לרוץ במקביל"
 
 #: useFirefoxSync.label
 msgid "Tip: This uses separate profiles. Use Sync to share data between them."
 msgstr ""
+"טיפ: פעולה זו מתאפשרת תודות ליצירה של שני פרופילים נפרדים. ניתן להשתמש ב־"
+"Sync כדי לסנכרן נתונים בניהם."
 
 #: getStarted.label
 msgid "Start using Sync…"
-msgstr ""
+msgstr "התחלת שימוש ב־Sync…"

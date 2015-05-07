@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -198,16 +198,16 @@ msgstr "הרשמה"
 msgid "Subscribe to this page"
 msgstr "הרשמה לדף זה"
 
-#. # LOCALIZATION NOTE (characterencoding-button.label): The \u00ad character at the beginning
+#. # LOCALIZATION NOTE (characterencoding-button2.label): The \u00ad text at the beginning
 #. # of the string is used to disable auto hyphenation on the button text when it is displayed
 #. # in the menu panel.
-#: characterencoding-button.label
-msgid "­Character Encoding"
-msgstr "קידוד תווים"
+#: characterencoding-button2.label
+msgid "­Text Encoding"
+msgstr ""
 
-#: characterencoding-button.tooltiptext2
-msgid "Show character encoding options"
-msgstr "הצגת אפשרויות קידוד תווים"
+#: characterencoding-button2.tooltiptext
+msgid "Show text encoding options"
+msgstr ""
 
 #: email-link-button.label
 msgid "Email Link"
@@ -235,19 +235,19 @@ msgstr "יציאה מ־%1$S (%2$S)"
 #. # approval before you change it.
 #: loop-call-button3.label
 msgid "Hello"
-msgstr ""
+msgstr "Hello"
 
 #: loop-call-button3.tooltiptext
 msgid "Start a conversation"
-msgstr ""
+msgstr "התחלת שיחה"
 
 #: social-share-button.label
 msgid "Share This Page"
-msgstr ""
+msgstr "שיתוף דף זה"
 
 #: social-share-button.tooltiptext
 msgid "Share this page"
-msgstr ""
+msgstr "שיתוף דף זה"
 
 #: panic-button.label
 msgid "Forget"
@@ -259,19 +259,19 @@ msgstr "לשכוח חלק מהיסטורית הגלישה"
 
 #: web-apps-button.label
 msgid "Apps"
-msgstr ""
+msgstr "יישומונים"
 
 #: web-apps-button.tooltiptext
 msgid "Discover Apps"
-msgstr ""
+msgstr "לגלות יישומונים"
 
 #. # LOCALIZATION NOTE(devtools-webide-button.label, devtools-webide-button.tooltiptext):
 #. # widget is only visible after WebIDE has been started once (Tools > Web Developers > WebIDE)
 #. # %S is the keyboard shortcut
 #: devtools-webide-button2.label
 msgid "WebIDE"
-msgstr ""
+msgstr "WebIDE"
 
 #: devtools-webide-button2.tooltiptext
 msgid "Open WebIDE (%S)"
-msgstr ""
+msgstr "פתיחת WebIDE (%S)"

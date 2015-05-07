@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,14 @@ msgstr "הסרת אתר זה"
 msgid "SPONSORED"
 msgstr "ממומן"
 
+#. # LOCALIZATION NOTE(newtab.suggested.button): %1$S will be replaced inline by
+#. # one of the user's top 100 sites that triggered this suggested tile.
+#. # This text appears for suggested tiles under the tile's title, so prefer short
+#. # strings to avoid truncating important text.
+#: newtab.suggested.button
+msgid "Suggested for %1$S visitors"
+msgstr ""
+
 #. # LOCALIZATION NOTE(newtab.sponsored.explain): %1$S will be replaced inline by
 #. # the (X) block icon. %2$S will be replaced by an active link using string
 #. # newtab.learn.link as text.
@@ -44,6 +52,15 @@ msgid ""
 msgstr ""
 "אריח זה  תוצג בשם שותף עסקי של Mozilla ניתן להסירה בכל עת באמצעות לחיצה על "
 "כפתור %1$S.‏ %2$S"
+
+#. # LOCALIZATION NOTE(newtab.suggested.explain): %1$S will be replaced inline by
+#. # the (X) block icon. %2$S will be replaced by an active link using string
+#. # newtab.learn.link as text.
+#: newtab.suggested.explain
+msgid ""
+"This site is suggested to you by Mozilla. You can remove it at any time by "
+"clicking the %1$S button. %2$S"
+msgstr ""
 
 #. # LOCALIZATION NOTE(newtab.enhanced.explain): %1$S will be replaced inline by
 #. # the gear icon used to customize the new tab window. %2$S will be replaced by

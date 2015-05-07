@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,15 +29,31 @@ msgstr ""
 
 #: generalDataTitle
 msgid "General Data"
-msgstr ""
+msgstr "מידע כללי"
 
 #: generalDataHeadingName
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #: generalDataHeadingValue
 msgctxt "generalDataHeadingValue"
 msgid "Value"
+msgstr "ערך"
+
+#: telemetryLogTitle
+msgid "Telemetry Log"
+msgstr ""
+
+#: telemetryLogHeadingId
+msgid "Id"
+msgstr ""
+
+#: telemetryLogHeadingTimestamp
+msgid "Timestamp"
+msgstr ""
+
+#: telemetryLogHeadingData
+msgid "Data"
 msgstr ""
 
 #: slowSqlMain

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr "חפש בכל התוספות"
 #: search.buttonlabel
 msgctxt "search.buttonlabel"
 msgid "Search"
-msgstr ""
+msgstr "חיפוש"
 
 #. LOCALIZATION NOTE (search.commandKey):
 #. The search command key should match findOnCmd.commandkey from browser.dtd
@@ -363,15 +363,15 @@ msgid ""
 msgstr ""
 "תוספות הן יישומים המאפשרים לך להתאים אישית את &brandShortName; עם סגנון  או "
 "פונקציונליות נוספים. נסה סרגל־צד חוסך זמן, מדווח מזג אוויר, או מראה שונה כדי "
-"להפוך את &brandShortName;  לשלך."
+"להפוך את &brandShortName; לשלך."
 
 #: discover.footer
 msgid ""
 "When you're connected to the internet, this pane will feature \n"
 "some of the best and most popular add-ons for you to try out."
 msgstr ""
-"  כאשר החיבור לרשת פעיל, פאנל זה יציג חלק מהתוספות הפופולריות ביותר אותן "
-"תוכל לנסות."
+"כאשר החיבור לרשת פעיל, חלונית זו תציג חלק מהתוספות הפופולריות ביותר אותן "
+"כדאי לנסות."
 
 #. detail view
 #: detail.version.label
@@ -693,4 +693,4 @@ msgstr "ה"
 
 #: setting.learnmore
 msgid "Learn More…"
-msgstr ""
+msgstr "מידע נוסף…"

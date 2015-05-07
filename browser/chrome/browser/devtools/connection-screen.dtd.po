@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgstr "התחברות…"
 
 #: availableAddons
 msgid "Available remote add-ons:"
-msgstr ""
+msgstr "הרחבות מרוחקות זמינות:"
 
 #: availableTabs
 msgid "Available remote tabs:"
@@ -84,11 +84,14 @@ msgid ""
 "Firefox OS, for example). Make sure that you have turned on the 'Remote "
 "debugging' option in the remote device. For more, see the "
 msgstr ""
+"Firefox Developer Tools יכול לנפות שגיאות בהתקנים מרוחקים (Firefox עבור "
+"Android ו־Firefox OS, לדוגמה). עליך לוודא כי הפעלת את האפשרות 'ניפוי שגיאות "
+"מרוחק' בהתקן המרוחק. למידע נוסף, נא לעיין "
 
 #: remoteDocumentation
 msgid "documentation"
-msgstr ""
+msgstr "בתיעוד"
 
 #: remoteHelpSuffix
 msgid "."
-msgstr ""
+msgstr "."

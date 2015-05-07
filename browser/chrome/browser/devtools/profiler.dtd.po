@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-03 11:21+0300\n"
+"POT-Creation-Date: 2015-04-04 01:53+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,16 +86,16 @@ msgstr ""
 msgid "JavaScript"
 msgstr ""
 
-#: profilerUI.toolbar.memory-calltree
-msgid "Memory"
+#: profilerUI.toolbar.memory-calltree1
+msgid "Allocations"
 msgstr ""
 
 #: profilerUI.toolbar.js-flamegraph
 msgid "JS Flame Chart"
 msgstr ""
 
-#: profilerUI.toolbar.memory-flamegraph
-msgid "Memory Flame Chart"
+#: profilerUI.toolbar.memory-flamegraph1
+msgid "Allocations Flame Chart"
 msgstr ""
 
 #. LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
@@ -120,17 +120,27 @@ msgstr ""
 msgid "Samples"
 msgstr ""
 
-#: profilerUI.table.totalAlloc
-msgid "Total Allocations"
-msgstr ""
-
-#: profilerUI.table.selfAlloc
-msgid "Self Allocations"
-msgstr ""
-
 #: profilerUI.table.function
 msgid "Function"
 msgstr "פונקציה"
+
+#: profilerUI.table.totalAlloc1
+msgid "Total Sampled Allocations"
+msgstr ""
+
+#: profilerUI.table.totalAllocTooltip
+msgid ""
+"The total number of Object allocations sampled at this location and in "
+"callees."
+msgstr ""
+
+#: profilerUI.table.selfAlloc1
+msgid "Self Sampled Allocations"
+msgstr ""
+
+#: profilerUI.table.selfAllocTooltip
+msgid "The number of Object allocations sampled at this location."
+msgstr ""
 
 #. The tooltiptext shown
 #. -  on the "+" (new tab) button for a profile when a selection is available.
@@ -138,9 +148,15 @@ msgstr "פונקציה"
 msgid "Add new tab from selection"
 msgstr "הוספת לשונית חדשה מהבחירה"
 
-#. This is the tooltip
+#. LOCALIZATION NOTE (profilerUI.toolbar.filter.tooltiptext): This string
+#. -  is displayed next to the filter button
+#: profilerUI.options.filter.tooltiptext
+msgid "Select what data to display in the timeline"
+msgstr ""
+
+#. LOCALIZATION NOTE (profilerUI.options.tooltiptext): This is the tooltip
 #. -  for the options button.
-#: profilerUI.options.tooltiptext
+#: profilerUI.options.gear.tooltiptext
 msgid "Configure performance preferences."
 msgstr ""
 
