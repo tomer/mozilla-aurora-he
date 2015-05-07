@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,6 +137,10 @@ msgid ""
 "with intentionally mis-encoded legacy fonts. This site should migrate to "
 "Unicode."
 msgstr ""
+"A meta tag was used to declare the character encoding as x-user-defined. "
+"This was interpreted as a windows-1252 declaration instead for compatibility "
+"with intentionally mis-encoded legacy fonts. This site should migrate to "
+"Unicode."
 
 #. # The bulk of the messages below are derived from # http://hg.mozilla.org/projects/htmlparser/file/1f633cef7de7/src/nu/validator/htmlparser/impl/ErrorReportingTokenizer.java# which is available under the MIT license.
 #. # Tokenizer errors
@@ -659,4 +663,4 @@ msgstr "End tag “%1$S” violates nesting rules."
 
 #: errEndWithUnclosedElements
 msgid "End tag for “%1$S” seen, but there were unclosed elements."
-msgstr ""
+msgstr "End tag for “%1$S” seen, but there were unclosed elements."

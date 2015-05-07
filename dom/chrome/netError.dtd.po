@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,7 +229,7 @@ msgstr ""
 
 #: unknownProtocolFound.title
 msgid "Unknown Protocol"
-msgstr ""
+msgstr "פרוטוקול לא מוכר"
 
 #: unknownProtocolFound.longDesc
 msgid ""
@@ -240,6 +240,11 @@ msgid ""
 "require third-party software or plugins before the browser can recognize "
 "them.</li></ul>"
 msgstr ""
+"<p>הכתובת ציינה פרוטוקול (לדוגמה: <q>wxyz://</q>) שהדפדפן אינו מזהה, ולכן "
+"הדפדפן אינו יכול להתחבר לאתר כראוי.</p><ul><li>האם אתה מנסה לגשת לשירות "
+"מולטימדיה או לשירות אחר שאינו מבוסס טקסט? בדוק אם קיימות לאתר דרישות "
+"נוספות.</li><li>פרוטוקולים מסויימים עשויים לדרוש שימוש ביישומי צד־שלישי או "
+"בתוספים חיצוניים לפני שהדפדפן יוכל לזהות אותם.</li></ul>"
 
 #: proxyConnectFailure.title
 msgid "Proxy Server Refused Connection"
@@ -315,6 +320,9 @@ msgid ""
 "of the received data could not be verified.</p><ul><li>Please contact the "
 "website owners to inform them of this problem.</li></ul>"
 msgstr ""
+"<p>הדף המבוקש אינו ניתן להצגה מאחר שלא ניתן לאמת את האותנטיות של המידע "
+"שהתקבל.</p><ul><li>נא ליצור קשר עם מנהלי האתר וליידע אותם על בעיה "
+"זו.</li></ul>"
 
 #: nssBadCert.title
 msgctxt "nssBadCert.title"
@@ -373,13 +381,15 @@ msgstr ""
 
 #: cspBlocked.title
 msgid "Blocked by Content Security Policy"
-msgstr ""
+msgstr "נחסם בהתאם למדיניות אבטחת תוכן"
 
 #: cspBlocked.longDesc
 msgid ""
 "<p>The browser prevented this page from loading in this way because the page "
 "has a content security policy that disallows it.</p>"
 msgstr ""
+"<p>הדפדפן מנע את הטעינה של הדף באופן זה מאחר שהדף מכיל מדיניות אבטחת תוכן "
+"המונעת זאת.</p>"
 
 #: corruptedContentError.title
 msgid "Corrupted Content Error"

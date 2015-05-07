@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -463,7 +463,7 @@ msgstr "משתרעת על %S שורות"
 #. # Invoked actions
 #: jumpAction
 msgid "jumped"
-msgstr ""
+msgstr "קפץ"
 
 #: pressAction
 msgctxt "pressAction"
@@ -486,7 +486,7 @@ msgstr "נבחר"
 
 #: unselectAction
 msgid "unselected"
-msgstr ""
+msgstr "לא נבחר"
 
 #: openAction
 msgid "opened"
@@ -498,7 +498,7 @@ msgstr "סגור"
 
 #: switchAction
 msgid "switched"
-msgstr ""
+msgstr "מותג"
 
 #: clickAction
 msgid "clicked"
@@ -520,7 +520,7 @@ msgstr "הופעל"
 
 #: cycleAction
 msgid "cycled"
-msgstr ""
+msgstr "סובב"
 
 #. # Live regions
 #. # 'hidden' will be spoken when something disappears in a live region.
@@ -581,7 +581,7 @@ msgstr "לא זמין"
 
 #: stateReadonly
 msgid "readonly"
-msgstr ""
+msgstr "קריאה בלבד"
 
 #: stateRequired
 msgid "required"

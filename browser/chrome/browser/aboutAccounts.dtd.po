@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,19 +19,19 @@ msgstr ""
 #. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #: aboutAccounts.welcome
 msgid "Welcome to &syncBrand.shortName.label;"
-msgstr "ברוך בואך ל־&syncBrand.shortName.label;"
+msgstr "ברוכים הבאים אל &syncBrand.shortName.label;"
 
 #: aboutAccountsConfig.description
 msgid "Sign in to sync your tabs, bookmarks, passwords & more."
-msgstr "התחבר כדי לסנכרן את הלשוניות, הססמאות ושאר ההגדרות שלך."
+msgstr "עליכם להתחבר כדי לסנכרן את הלשוניות, הססמאות ושאר ההגדרות שלכם."
 
 #: aboutAccountsConfig.startButton.label
 msgid "Get started"
-msgstr "בוא ונתחיל"
+msgstr "בואו ונתחיל"
 
 #: aboutAccountsConfig.useOldSync.label
 msgid "Using an older version of Sync?"
-msgstr "משתמש בגרסה קודמת של Sync?"
+msgstr "משתמשים בגרסה קודמת של Sync?"
 
 #: aboutAccountsConfig.manage.label
 msgid "Manage"

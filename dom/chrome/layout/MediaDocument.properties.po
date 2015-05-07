@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,27 +23,27 @@ msgstr ""
 #. #LOCALIZATION NOTE (MediaTitleWithNoInfo): first %S is type
 #: ImageTitleWithDimensions2AndFile
 msgid "%S (%S Image, %S × %S pixels)"
-msgstr ""
+msgstr "%S (תמונה מסוג %S, %S × %S פיקסלים)"
 
 #: ImageTitleWithoutDimensions
 msgid "%S (%S Image)"
-msgstr "%S (תמונת %S)"
+msgstr "%S (תמונה מסוג %S)"
 
 #: ImageTitleWithDimensions2
 msgid "(%S Image, %S × %S pixels)"
-msgstr ""
+msgstr "(תמונה מסוג %S, %S × %S פיקסלים)"
 
 #: ImageTitleWithNeitherDimensionsNorFile
 msgid "(%S Image)"
-msgstr "(תמונת %S)"
+msgstr "(תמונה מסוג %S)"
 
 #: MediaTitleWithFile
 msgid "%S (%S Object)"
-msgstr "%S (אובייקט %S)"
+msgstr "%S (עצם %S)"
 
 #: MediaTitleWithNoInfo
 msgid "(%S Object)"
-msgstr "(אובייקט %S)"
+msgstr "(עצם %S)"
 
 #: InvalidImage
 msgid "The image “%S” cannot be displayed because it contains errors."

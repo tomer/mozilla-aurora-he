@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgstr "מנוטרל"
 
 #: mimetype_label
 msgid "MIME Type"
-msgstr "MIME סוג"
+msgstr "טיפוס MIME"
 
 #: description_label
 msgid "Description"
@@ -70,16 +70,16 @@ msgstr "סיומות"
 
 #: learn_more_label
 msgid "Learn More"
-msgstr ""
+msgstr "מידע נוסף"
 
 #. # GMP Plugins
 #: gmp_license_info
 msgid "License information"
-msgstr ""
+msgstr "פרטי רישוי"
 
 #: openH264_name
 msgid "OpenH264 Video Codec provided by Cisco Systems, Inc."
-msgstr ""
+msgstr "OpenH264 Video Codec סופק ע״י Cisco Systems, Inc."
 
 #: openH264_description2
 msgid ""
@@ -88,12 +88,16 @@ msgid ""
 "video codec. Visit http://www.openh264.org/ to view the codec source code "
 "and learn more about the implementation."
 msgstr ""
+"תוסף חיצוני זה הותקן באופן אוטומטי על־ידי Mozilla כדי לעמוד במפרט WebRTC "
+"ולאפשר קריאות WebRTC מול התקנים הדורשים קידוד וידאו  H.264. למידע נוסף על "
+"המימוש ולקוד המקור נא לפנות אל http://www.openh264.org/ "
 
 #: eme-adobe_name
 msgid ""
 "Primetime Content Decryption Module provided by Adobe Systems, Incorporated"
 msgstr ""
+"Primetime Content Decryption Module סופק ע״י Adobe Systems, Incorporated"
 
 #: eme-adobe_description
 msgid "Play back protected web video."
-msgstr ""
+msgstr "Play back protected web video."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -352,7 +352,7 @@ msgstr ""
 #. # are displayed in the breakpoints menu item popup.
 #: breakpointMenuItem.setConditional
 msgid "Configure conditional breakpoint"
-msgstr ""
+msgstr "הגדדרת נקודת עצירה מותנת"
 
 #: breakpointMenuItem.enableSelf
 msgid "Enable breakpoint"

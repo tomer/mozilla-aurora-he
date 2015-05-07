@@ -1,22 +1,18 @@
-# Tomer Cohen <tomer.mozilla@tomercohen.com>, 2015.
 #. extracted from l10n/en-US/browser/chrome/browser/aboutDialog.dtd, l10n/he/browser/chrome/browser/aboutDialog.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
-"PO-Revision-Date: 2015-04-04 02:16+0300\n"
-"Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
-"Language-Team: Mozilla Israel\n"
-"Language: he\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
-"X-Project-Style: mozilla\n"
 
 #. This Source Code Form is subject to the terms of the Mozilla Public
 #. - License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -76,7 +72,7 @@ msgstr "&vendorShortName;"
 
 #: community.exp.middle
 msgid " is a "
-msgstr "היא "
+msgstr " היא "
 
 #. LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits.
 #: community.exp.creditsLink
@@ -116,12 +112,12 @@ msgstr " שמשימתה היא להשאיר את הרשת פתוחה, ציבור
 
 #: helpus.start
 msgid "Want to help? "
-msgstr "מעוניינים לסייע?"
+msgstr "מעוניינים לסייע? "
 
 #. This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout.
 #: helpus.donateLink
 msgid "Make a donation"
-msgstr "ניתן לתרום לנו"
+msgstr "תרמו לנו"
 
 #: helpus.middle
 msgid " or "
@@ -130,12 +126,12 @@ msgstr " או "
 #. This is a link title that links to http://www.mozilla.org/contribute/.
 #: helpus.getInvolvedLink
 msgid "get involved!"
-msgstr "להצטרף אלינו!"
+msgstr "הצטרפו אלינו"
 
 #: helpus.end
 msgctxt "helpus.end"
 msgid ""
-msgstr ""
+msgstr "!"
 
 #. This is a link title that links to about:license.
 #: bottomLinks.license

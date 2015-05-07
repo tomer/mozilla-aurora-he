@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-04 01:53+0300\n"
+"POT-Creation-Date: 2015-05-07 19:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr "פקודות זמינות"
 #. # is not compatible with multiprocess mode (E10S).
 #: notAvailableInE10S
 msgid "The command '%1$S' is not available in multiprocess mode (E10S)"
-msgstr ""
+msgstr "הפקודה '%1$S' אינה זמינה במצב ריבוי תהליכים (E10S)"
 
 #. # LOCALIZATION NOTE (consoleDesc) A very short string used to describe the
 #. # function of the console command.
@@ -88,14 +88,14 @@ msgstr "שם הקובץ (צריך להיות עם סיומת '.png') אליו י
 #. # a dialog when the user is using this command.
 #: screenshotClipboardDesc
 msgid "Copy screenshot to clipboard? (true/false)"
-msgstr ""
+msgstr "העתקת צילום המסך ללוח? (true/false)"
 
 #. # LOCALIZATION NOTE (screenshotClipboardManual) A fuller description of the
 #. # 'clipboard' parameter to the 'screenshot' command, displayed when the user
 #. # asks for help on what it does.
 #: screenshotClipboardManual
 msgid "True if you want to copy the screenshot instead of saving it to a file."
-msgstr ""
+msgstr "True כדי להעתיק את צילום המסך ללוח במקום לשמור אותו לקובץ."
 
 #. # LOCALIZATION NOTE (screenshotChromeDesc) A very short string to describe
 #. # the 'chrome' parameter to the 'screenshot' command, which is displayed in
@@ -103,7 +103,7 @@ msgstr ""
 #. # The argument (%1$S) is the browser name.
 #: screenshotChromeDesc2
 msgid "Capture %1$S chrome window? (true/false)"
-msgstr ""
+msgstr "צילום %1$S החלון כולו? (true/false)"
 
 #. # LOCALIZATION NOTE (screenshotChromeManual) A fuller description of the
 #. # 'chrome' parameter to the 'screenshot' command, displayed when the user
@@ -113,14 +113,15 @@ msgstr ""
 msgid ""
 "True if you want to take the screenshot of the %1$S window rather than the "
 "web page's content window."
-msgstr ""
+msgstr "True כדי לצלם את החלון של %1$S כולו במקום רק את תוכן הדף בחלון."
 
 #. # LOCALIZATION NOTE (screenshotGroupOptions) A label for the optional options of
 #. # the screenshot command.
 #: screenshotGroupOptions
 msgctxt "screenshotGroupOptions"
+"screenshotGroupOptions"
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 #. # LOCALIZATION NOTE (screenshotDelayDesc) A very short string to describe
 #. # the 'delay' parameter to the 'screenshot' command, which is displayed in
@@ -365,27 +366,27 @@ msgstr ""
 #. # The argument (%1$S) is the browser name.
 #: restartBrowserDesc
 msgid "Restart %1$S"
-msgstr ""
+msgstr "הפעלה מחדש של %1$S"
 
 #. # LOCALIZATION NOTE (restartBrowserNocacheDesc) A very short string to
 #. # describe the 'nocache' parameter to the 'restart' command, which is
 #. # displayed in a dialog when the user is using this command.
 #: restartBrowserNocacheDesc
 msgid "Disables loading content from cache upon restart"
-msgstr ""
+msgstr "נטרול טעינת תוכן מהמטמון עד להפעלה מחדש"
 
 #. # LOCALIZATION NOTE (restartBrowserRequestCancelled) A string displayed to the
 #. # user when a scheduled restart has been aborted by the user.
 #: restartBrowserRequestCancelled
 msgid "Restart request cancelled by user."
-msgstr ""
+msgstr "פעולת ההפעלה מחדש בוטלה על־ידי המשתמש."
 
 #. # LOCALIZATION NOTE (restartBrowserRestarting) A string displayed to the
 #. # user when a restart has been initiated without a delay.
 #. # The argument (%1$S) is the browser name.
 #: restartBrowserRestarting
 msgid "Restarting %1$S…"
-msgstr ""
+msgstr "%1$S מופעל מחדש…"
 
 #. # LOCALIZATION NOTE (inspectDesc) A very short description of the 'inspect'
 #. # command. See inspectManual for a fuller description of what it does. This
@@ -484,7 +485,7 @@ msgstr ""
 #. # tooltip of button in devtools toolbox which toggles Tilt 3D View.
 #: tiltToggleTooltip
 msgid "3D View"
-msgstr ""
+msgstr "תצוגת תלת ממד"
 
 #. # LOCALIZATION NOTE (tiltTranslateDesc) A very short description of the 'tilt translate'
 #. # command. See tiltTranslateManual for a fuller description of what it does. This
@@ -649,13 +650,13 @@ msgstr ""
 #. # to explain that the debugger must be opened first.
 #: debuggerClosed
 msgid "The debugger must be opened before using this command"
-msgstr ""
+msgstr "יש לפתוח את מנפה השגיאות טרם השימוש בפקודה זו"
 
 #. # LOCALIZATION NOTE (debuggerStopped) Used in the output of several commands
 #. # to explain that the debugger must be opened first before setting breakpoints.
 #: debuggerStopped
 msgid "The debugger must be opened before setting breakpoints"
-msgstr ""
+msgstr "יש לפתוח את מנפה השגיאות לפני הגדרת נקודות עצירה"
 
 #. # LOCALIZATION NOTE (breakDesc) A very short string used to describe the
 #. # function of the break command.
@@ -686,7 +687,7 @@ msgstr "לא הוגדרו נקודות עצירה"
 #: breaklistOutRemove
 msgctxt "breaklistOutRemove"
 msgid "Remove"
-msgstr ""
+msgstr "הסרה"
 
 #. # LOCALIZATION NOTE (breakaddAdded) Used in the output of the 'break add'
 #. # command to explain that a breakpoint was added.
@@ -768,19 +769,19 @@ msgstr ""
 #. # of the dbg open command.
 #: dbgOpen
 msgid "Open the debugger"
-msgstr ""
+msgstr "פתיחת מנפה השגיאות"
 
 #. # LOCALIZATION NOTE (dbgClose) A very short string used to describe the function
 #. # of the dbg close command.
 #: dbgClose
 msgid "Close the debugger"
-msgstr ""
+msgstr "סגירת מנפה השגיאות"
 
 #. # LOCALIZATION NOTE (dbgInterrupt) A very short string used to describe the
 #. # function of the dbg interrupt command.
 #: dbgInterrupt
 msgid "Pauses the main thread"
-msgstr "Pauses the main thread"
+msgstr "הקפאת התהליכון הראשי"
 
 #. # LOCALIZATION NOTE (dbgContinue) A very short string used to describe the
 #. # function of the dbg continue command.
@@ -789,8 +790,8 @@ msgid ""
 "Resumes the main thread, and continues execution following a breakpoint, "
 "until the next breakpoint or the termination of the script."
 msgstr ""
-"Resumes the main thread, and continues execution following a breakpoint, "
-"until the next breakpoint or the termination of the script."
+"המשך פעולת התהליכון הראשי, והמשך המעקב אחר נקודות העצירה הבאות, עד נקודת "
+"העצירה הבאה או הפסקת פעולת התסריט."
 
 #. # LOCALIZATION NOTE (dbgStepDesc) A very short string used to describe the
 #. # function of the dbg step command.
@@ -1026,7 +1027,7 @@ msgstr "Toggle Responsive Design Mode"
 #. # tooltip of button in devtools toolbox which toggles Responsive Design Mode.
 #: resizeModeToggleTooltip
 msgid "Responsive Design Mode"
-msgstr ""
+msgstr "מצב עיצוב רספונסיבי"
 
 #. # LOCALIZATION NOTE (resizeModeToDesc) A very short string to describe the
 #. # 'resize to' command. This string is designed to be shown in a menu
@@ -1155,11 +1156,11 @@ msgstr "התוספות הבאות מהסוג הנבחר מותקנות נכון 
 #. # short as possible.
 #: addonListOutEnable
 msgid "Enable"
-msgstr ""
+msgstr "הפעלה"
 
 #: addonListOutDisable
 msgid "Disable"
-msgstr ""
+msgstr "נטרול"
 
 #. # LOCALIZATION NOTE (addonPending, addonPendingEnable, addonPendingDisable,
 #. # addonPendingUninstall, addonPendingInstall, addonPendingUpgrade) Used in
@@ -1170,27 +1171,27 @@ msgstr ""
 #. # as possible.
 #: addonPending
 msgid "pending"
-msgstr ""
+msgstr "בהמתנה"
 
 #: addonPendingEnable
 msgid "enable"
-msgstr ""
+msgstr "הפעלה"
 
 #: addonPendingDisable
 msgid "disable"
-msgstr ""
+msgstr "נטרול"
 
 #: addonPendingUninstall
 msgid "uninstall"
-msgstr ""
+msgstr "הסרה"
 
 #: addonPendingInstall
 msgid "install"
-msgstr ""
+msgstr "התקנה"
 
 #: addonPendingUpgrade
 msgid "upgrade"
-msgstr ""
+msgstr "שדרוג"
 
 #. # LOCALIZATION NOTE (addonNameDesc) A very short description of the
 #. # name parameter of numerous add-on commands. This string is designed to be shown
@@ -1542,46 +1543,46 @@ msgstr "הצגת רשימת העוגיות הקשורות לעמוד הנוכח�
 #. # references to names in the cookies spec.
 #: cookieListOutHost
 msgid "Host:"
-msgstr ""
+msgstr "מארח:"
 
 #: cookieListOutPath
 msgid "Path:"
-msgstr ""
+msgstr "נתיב:"
 
 #: cookieListOutExpires
 msgctxt "cookieListOutExpires"
 msgid "Expires:"
-msgstr ""
+msgstr "תפוגה:"
 
 #: cookieListOutAttributes
 msgid "Attributes:"
-msgstr ""
+msgstr "תכונות:"
 
 #. # LOCALIZATION NOTE (cookieListOutNone) The output of the 'cookie list' command
 #. # uses this string when no cookie attributes (like httpOnly, secure, etc) apply
 #: cookieListOutNone
 msgid "None"
-msgstr ""
+msgstr "ללא"
 
 #. # LOCALIZATION NOTE (cookieListOutSession) The output of the 'cookie list'
 #. # command uses this string to describe a cookie with an expiry value of '0'
 #. # that is to say it is a session cookie
 #: cookieListOutSession
 msgid "At browser exit (session)"
-msgstr ""
+msgstr "סגירת דפדפן (session)"
 
 #. # LOCALIZATION NOTE (cookieListOutNonePage) The output of the 'cookie list'
 #. # command uses this string for pages like 'about:blank' which can't contain
 #. # cookies
 #: cookieListOutNonePage
 msgid "No cookies found for this page"
-msgstr ""
+msgstr "לא הוגדרו עוגיות עבור דף זה"
 
 #. # LOCALIZATION NOTE (cookieListOutNoneHost) The output of the 'cookie list'
 #. # command uses this string when there are no cookies on a given web page
 #: cookieListOutNoneHost
 msgid "No cookies found for host %1$S"
-msgstr ""
+msgstr "לא הוגדרו עוגיות עבור שרת מארח %1$S"
 
 #. # LOCALIZATION NOTE (cookieListOutEdit) A title used in the output from the
 #. # 'cookie list' command on a button which can be used to edit cookie values
@@ -1607,14 +1608,14 @@ msgstr "הסרת עוגייה"
 #. # command, displayed when the user asks for help on what it does.
 #: cookieRemoveManual
 msgid "Remove a cookie, given its key"
-msgstr "הסרת עוגייה לפי המפתח"
+msgstr "הסרת עוגייה לפי מזהה"
 
 #. # LOCALIZATION NOTE (cookieRemoveKeyDesc) A very short string to describe the
 #. # 'key' parameter to the 'cookie remove' command, which is displayed in a dialog
 #. # when the user is using this command.
 #: cookieRemoveKeyDesc
 msgid "The key of the cookie to remove"
-msgstr "המפתח של העוגייה להסרה"
+msgstr "המזהה של העוגייה להסרה"
 
 #. # LOCALIZATION NOTE (cookieSetDesc) A very short description of the
 #. # 'cookie set' command. This string is designed to be shown in a menu
@@ -1640,7 +1641,7 @@ msgstr ""
 #. # when the user is using this command.
 #: cookieSetKeyDesc
 msgid "The key of the cookie to set"
-msgstr "מפתח העוגיה להגדרה"
+msgstr "מזהה העוגיה להגדרה"
 
 #. # LOCALIZATION NOTE (cookieSetValueDesc) A very short string to describe the
 #. # 'value' parameter to the 'cookie set' command, which is displayed in a dialog
@@ -1682,21 +1683,21 @@ msgstr "העוגייה תישלח על https בלבד"
 #. # when the user is using this command.
 #: cookieSetHttpOnlyDesc
 msgid "Not accessible from client side script"
-msgstr ""
+msgstr "אינה זמינה מתסריטי צד לקוח"
 
 #. # LOCALIZATION NOTE (cookieSetSessionDesc) A very short string to describe the
 #. # 'session' parameter to the 'cookie set' command, which is displayed in a dialog
 #. # when the user is using this command.
 #: cookieSetSessionDesc
 msgid "Only valid for the lifetime of the browser session"
-msgstr ""
+msgstr "זמינה רק בהפעלה זו של הדפדפן"
 
 #. # LOCALIZATION NOTE (cookieSetExpiresDesc) A very short string to describe the
 #. # 'expires' parameter to the 'cookie set' command, which is displayed in a dialog
 #. # when the user is using this command.
 #: cookieSetExpiresDesc
 msgid "The expiry date of the cookie (quoted RFC2822 or ISO 8601 date)"
-msgstr ""
+msgstr "תאריך התפוגה של העוגיה (תאריכים לפי מפרט RFC2822 או ISO 8601 date)"
 
 #. # LOCALIZATION NOTE (jsbDesc) A very short description of the
 #. # 'jsb' command. This string is designed to be shown in a menu
@@ -1747,7 +1748,7 @@ msgstr ""
 #. # as possible.
 #: jsbDoNotPreserveNewlinesDesc
 msgid "Do not preserve line breaks"
-msgstr ""
+msgstr "לא לשמור שבירות שורה"
 
 #. # LOCALIZATION NOTE (jsbPreserveNewlinesManual) A fuller description of the
 #. # 'jsb <jsbPreserveNewlines>' parameter, displayed when the user asks for help
@@ -1847,7 +1848,7 @@ msgstr "נא להכניס כתובת חוקית"
 #: jsbOptionsDesc
 msgctxt "jsbOptionsDesc"
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 #. # LOCALIZATION NOTE (calllogDesc) A very short description of the
 #. # 'calllog' command. This string is designed to be shown in a menu
