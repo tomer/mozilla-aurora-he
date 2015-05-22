@@ -1,17 +1,15 @@
-#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-#. extracted from l10n/en-US/browser/chrome/browser/browser.properties, l10n/he/browser/chrome/browser/browser.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-22 22:32+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-05-22 23:16+0200\n"
+"Last-Translator: Shir Cohen <cohen.shir@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
 
@@ -95,15 +93,13 @@ msgstr "מוריד ומאמת תוספת…;מוריד ומאמת #1 תוספו�
 msgid "Verifying"
 msgstr "אימות"
 
-#: addonInstall.cancelButton.label
-#: addonInstall.cancelButton.accesskey
+#: addonInstall.cancelButton.label addonInstall.cancelButton.accesskey
 msgid "&Cancel"
-msgstr ""
+msgstr "&ביטול"
 
-#: addonInstall.acceptButton.label
-#: addonInstall.acceptButton.accesskey
+#: addonInstall.acceptButton.label addonInstall.acceptButton.accesskey
 msgid "&Install"
-msgstr ""
+msgstr "&התקנה"
 
 #. # LOCALIZATION NOTE (addonConfirmInstallMessage):
 #. # Semicolon-separated list of plural forms. See:
@@ -114,35 +110,32 @@ msgstr ""
 msgid ""
 "This site would like to install an add-on in #1:;This site would like to "
 "install #2 add-ons in #1:"
-msgstr "אתר זה מעוניין להתקין תוספת ב־#1:;אתר זה מעוניין להתקין #2 תוספות ב־#1:"
+msgstr ""
+"אתר זה מעוניין להתקין תוספת ב־#1:;אתר זה מעוניין להתקין #2 תוספות ב־#1:"
 
 #: addonwatch.slow
 msgid "%1$S might be making %2$S run slowly"
 msgstr "%1$S עלול לגרום ל־%2$S לעבוד לאט"
 
-#: addonwatch.disable.label
-#: addonwatch.disable.accesskey
+#: addonwatch.disable.label addonwatch.disable.accesskey
 msgid "&Disable %S"
-msgstr ""
+msgstr "&ניטרול %S"
 
-#: addonwatch.ignoreSession.label
-#: addonwatch.ignoreSession.accesskey
+#: addonwatch.ignoreSession.label addonwatch.ignoreSession.accesskey
 msgid "&Ignore for now"
-msgstr ""
+msgstr "ה&תעלמות בשלב זה"
 
-#: addonwatch.ignorePerm.label
-#: addonwatch.ignorePerm.accesskey
+#: addonwatch.ignorePerm.label addonwatch.ignorePerm.accesskey
 msgid "Ignore &permanently"
-msgstr ""
+msgstr "התעלמות &לתמיד"
 
 #: addonwatch.restart.message
 msgid "To disable %1$S you must restart %2$S"
 msgstr "כדי לנטרל את %1$S עליך להפעיל מחדש את %2$S"
 
-#: addonwatch.restart.label
-#: addonwatch.restart.accesskey
+#: addonwatch.restart.label addonwatch.restart.accesskey
 msgid "&Restart %S"
-msgstr ""
+msgstr "ה&פעלת %S מחדש"
 
 #. # LOCALIZATION NOTE (addonsInstalled, addonsInstalledNeedsRestart):
 #. # Semicolon-separated list of plural forms. See:
@@ -296,7 +289,8 @@ msgstr "ה"
 msgid ""
 "#1 prevented this site from opening a pop-up window.;#1 prevented this site "
 "from opening #2 pop-up windows."
-msgstr "#1 מנע מאתר זה לפתוח חלון קופץ.;#1 מנע מאתר זה מלפתוח #2 חלונות קופצים."
+msgstr ""
+"#1 מנע מאתר זה לפתוח חלון קופץ.;#1 מנע מאתר זה מלפתוח #2 חלונות קופצים."
 
 #: popupWarningButton
 msgid "Options"
@@ -351,12 +345,12 @@ msgstr "התוסף החיצוני %S קרס."
 #: crashedpluginsMessage.reloadButton.label
 #: crashedpluginsMessage.reloadButton.accesskey
 msgid "&Reload page"
-msgstr ""
+msgstr "&טעינה מחדש"
 
 #: crashedpluginsMessage.submitButton.label
 #: crashedpluginsMessage.submitButton.accesskey
 msgid "&Submit a crash report"
-msgstr ""
+msgstr "&שליחת דיווח קריסה"
 
 #: crashedpluginsMessage.learnMore
 msgctxt "crashedpluginsMessage.learnMore"
@@ -385,8 +379,7 @@ msgid "No thanks"
 msgstr "לא תודה"
 
 #: keywordURIFixup.dismiss.accesskey
-msgctxt "keywordURIFixup.dismiss.accesskey"
-"keywordURIFixup.dismiss.accesskey"
+msgctxt "keywordURIFixup.dismiss.accesskeykeywordURIFixup.dismiss.accesskey"
 msgid "N"
 msgstr "ל"
 
@@ -479,28 +472,24 @@ msgstr "לא ידוע"
 #. # LOCALIZATION NOTE (pluginActivateNow.label): This button will enable the
 #. # plugin in the current session for an short time (about an hour), auto-renewed
 #. # if the site keeps using the plugin.
-#: pluginActivateNow.label
-#: pluginActivateNow.accesskey
+#: pluginActivateNow.label pluginActivateNow.accesskey
 msgid "Allow &Now"
-msgstr ""
+msgstr "לאפשר &כעת"
 
 #. # LOCALIZATION NOTE (pluginActivateAlways.label): This button will enable the
 #. # plugin for a long while (90 days), auto-renewed if the site keeps using the
 #. # plugin.
-#: pluginActivateAlways.label
-#: pluginActivateAlways.accesskey
+#: pluginActivateAlways.label pluginActivateAlways.accesskey
 msgid "Allow and &Remember"
-msgstr ""
+msgstr "לאפשר ול&זכור"
 
-#: pluginBlockNow.label
-#: pluginBlockNow.accesskey
+#: pluginBlockNow.label pluginBlockNow.accesskey
 msgid "&Block Plugin"
-msgstr ""
+msgstr "&חסימת תוסף חיצוני"
 
-#: pluginContinue.label
-#: pluginContinue.accesskey
+#: pluginContinue.label pluginContinue.accesskey
 msgid "&Continue Allowing"
-msgstr ""
+msgstr "לה&משיך לאפשר"
 
 #. # in-page UI
 #: PluginClickToActivate
@@ -516,17 +505,15 @@ msgid "This plugin has security vulnerabilities."
 msgstr "ישנן בעיות אבטחה בתוסף חיצוני זה."
 
 #. # infobar UI
-#: pluginContinueBlocking.label
-#: pluginContinueBlocking.accesskey
+#: pluginContinueBlocking.label pluginContinueBlocking.accesskey
 msgid "Continue &Blocking"
-msgstr ""
+msgstr "לה&משיך לחסום"
 
 #. # LOCALIZATION NOTE (pluginActivateTrigger): Use the unicode ellipsis char, \u2026,
 #. # or use "..." if \u2026 doesn't suit traditions in your locale.
-#: pluginActivateTrigger.label
-#: pluginActivateTrigger.accesskey
+#: pluginActivateTrigger.label pluginActivateTrigger.accesskey
 msgid "&Allow…"
-msgstr ""
+msgstr "ל&אפשר…"
 
 #. # Sanitize
 #. # LOCALIZATION NOTE (sanitizeDialog2.everything.title): When "Time range to
@@ -566,7 +553,7 @@ msgstr "כל הפריטים הנבחרים ימחקו."
 #: update.downloadAndInstallButton.label
 #: update.downloadAndInstallButton.accesskey
 msgid "&Update to %S"
-msgstr ""
+msgstr "ל&עדכן לגרסה %S"
 
 #. # RSS Pretty Print
 #: feedShowFeedNew
@@ -825,10 +812,9 @@ msgid "Remove Bookmark;Remove #1 Bookmarks"
 msgstr "הסר סימניה;הסר #1 סימניות"
 
 #. # Post Update Notifications
-#: pu.notifyButton.label
-#: pu.notifyButton.accesskey
+#: pu.notifyButton.label pu.notifyButton.accesskey
 msgid "&Details…"
-msgstr ""
+msgstr "&פרטים…"
 
 #. # LOCALIZATION NOTE %S will be replaced by the short name of the application.
 #: puNotifyText
@@ -953,7 +939,7 @@ msgstr "%S יסתיר את המצביע"
 #: safebrowsing.getMeOutOfHereButton.label
 #: safebrowsing.getMeOutOfHereButton.accessKey
 msgid "&Get me out of here!"
-msgstr ""
+msgstr "&קחו אותי מכאן!"
 
 #: safebrowsing.reportedWebForgery
 msgid "Reported Web Forgery!"
@@ -962,7 +948,7 @@ msgstr "הונאת רשת מדווחת!"
 #: safebrowsing.notAForgeryButton.label
 #: safebrowsing.notAForgeryButton.accessKey
 msgid "This isn't a web &forgery…"
-msgstr ""
+msgstr "זו אינה הו&נאת רשת…"
 
 #: safebrowsing.reportedAttackSite
 msgid "Reported Attack Site!"
@@ -971,7 +957,7 @@ msgstr "אתר תקיפה מדווח!"
 #: safebrowsing.notAnAttackButton.label
 #: safebrowsing.notAnAttackButton.accessKey
 msgid "This isn't &an attack site…"
-msgstr ""
+msgstr "זה אינו אתר ת&קיפה"
 
 #. # Ctrl-Tab
 #. # LOCALIZATION NOTE (ctrlTab.listAllTabs.label): #1 represents the number
@@ -995,7 +981,7 @@ msgstr "%S - קיבוץ את הלשוניות שלך"
 
 #. # LOCALIZATION NOTE (tabview.moveToUnnamedGroup.label): Semicolon-separated list of plural forms.
 #. # See: http://developer.mozilla.org/en/docs/Localization_and_Plurals
-#. # #1 is the page title of the first tab in the unnamed group, 
+#. # #1 is the page title of the first tab in the unnamed group,
 #. # #2 is the number of remaining tabs.
 #: tabview.moveToUnnamedGroup.label
 msgid "#1 and 1 more;#1 and #2 more"
@@ -1085,18 +1071,17 @@ msgstr "%1$S יישלח אוטומטית חלק מהנתונים אל %2$S כד�
 #: dataReportingNotification.button.label
 #: dataReportingNotification.button.accessKey
 msgid "&Choose What I Share"
-msgstr ""
+msgstr "&בחירת תוכן משותף"
 
 #. # Process hang reporter
 #: processHang.message
 msgid "A web page is causing %1$S to run slowly. What would you like to do?"
 msgstr "אתר זה גורם ל־%1$S לעבוד לאט. מה ברצונך לעשות בנידון? "
 
-#: processHang.button.label
-#: processHang.button.accessKey
+#: processHang.button.label processHang.button.accessKey
 msgctxt "processHang.button.label processHang.button.accessKey"
 msgid "&Options"
-msgstr ""
+msgstr "&אפשרויות"
 
 #. # Webapps notification popup
 #: webapps.install
@@ -1174,10 +1159,9 @@ msgid ""
 "and sidebar?"
 msgstr "האם ברצונך להפעיל שירותים מ-%1$S להצגה בסרגל הכלים וסרגל הצד של %2$S?"
 
-#: service.install.ok.label
-#: service.install.ok.accesskey
+#: service.install.ok.label service.install.ok.accesskey
 msgid "&Enable Services"
-msgstr ""
+msgstr "הפעלת &שרותים"
 
 #. # LOCALIZATION NOTE (social.markpageMenu.label): %S is the name of the social provider
 #: social.markpageMenu.label
@@ -1194,15 +1178,13 @@ msgstr "שמירת קישור ב־%S"
 msgid "%1$S is unable to connect with %2$S right now."
 msgstr "%1$S אינו יכול להתחבר עם %2$S כעת."
 
-#: social.error.tryAgain.label
-#: social.error.tryAgain.accesskey
+#: social.error.tryAgain.label social.error.tryAgain.accesskey
 msgid "&Try Again"
-msgstr ""
+msgstr "ל&נסות שוב"
 
-#: social.error.closeSidebar.label
-#: social.error.closeSidebar.accesskey
+#: social.error.closeSidebar.label social.error.closeSidebar.accesskey
 msgid "&Close This Sidebar"
-msgstr ""
+msgstr "&סגירת סרגל־צד זה"
 
 #. # LOCALIZATION NOTE: %1$S is the label for the toolbar button, %2$S is the associated badge numbering that the social provider may provide.
 #: social.aria.toolbarButtonBadgeText
@@ -1227,10 +1209,9 @@ msgstr "התחברות אל %S"
 msgid "Use an existing email"
 msgstr "שימוש בכתובת דואר אלקטרוני קיימת"
 
-#: identity.newIdentity.label
-#: identity.newIdentity.accessKey
+#: identity.newIdentity.label identity.newIdentity.accessKey
 msgid "Us&e a different email"
-msgstr ""
+msgstr "&שימוש בדואר אלקטרוני שונה"
 
 #: identity.newIdentity.email.placeholder
 msgid "Email"
@@ -1241,10 +1222,9 @@ msgstr "דואר אלקטרוני"
 msgid "Enter your email address to sign in to %S"
 msgstr "נא להזין את כתובת הדואר האלקטרוני שלך כדי להתחבר אל %S"
 
-#: identity.next.label
-#: identity.next.accessKey
+#: identity.next.label identity.next.accessKey
 msgid "&Next"
-msgstr ""
+msgstr "ה&בא"
 
 #. # LOCALIZATION NOTE: shown in the popup notification when a user successfully logs into a website
 #. # LOCALIZATION NOTE (identity.loggedIn.description): %S is the user's identity (e.g. user@example.com)
@@ -1252,10 +1232,9 @@ msgstr ""
 msgid "Signed in as: %S"
 msgstr "מחובר בתור: %S"
 
-#: identity.loggedIn.signOut.label
-#: identity.loggedIn.signOut.accessKey
+#: identity.loggedIn.signOut.label identity.loggedIn.signOut.accessKey
 msgid "Sign &Out"
-msgstr ""
+msgstr "ה&תנתקות"
 
 #. # LOCALIZATION NOTE (getUserMedia.shareCamera.message, getUserMedia.shareMicrophone.message,
 #. #                    getUserMedia.shareScreen.message, getUserMedia.shareCameraAndMicrophone.message,
@@ -1281,20 +1260,18 @@ msgstr "האם לשתף את המצלמה והמיקרופון שלך עם %S?"
 msgid "Would you like to share your microphone and screen with %S?"
 msgstr "האם לשתף את המיקרופון והמסך שלך עם %S?"
 
-#: getUserMedia.selectWindow.label
-#: getUserMedia.selectWindow.accesskey
+#: getUserMedia.selectWindow.label getUserMedia.selectWindow.accesskey
 msgid "&Window to share:"
-msgstr ""
+msgstr "&חלון לשיתוף"
 
-#: getUserMedia.selectScreen.label
-#: getUserMedia.selectScreen.accesskey
+#: getUserMedia.selectScreen.label getUserMedia.selectScreen.accesskey
 msgid "&Screen to share:"
-msgstr ""
+msgstr "&מסך לשיתוף"
 
 #: getUserMedia.selectApplication.label
 #: getUserMedia.selectApplication.accesskey
 msgid "&Application to share:"
-msgstr ""
+msgstr "&יישום לשיתוף"
 
 #: getUserMedia.noVideo.label
 msgid "No Video"
@@ -1336,7 +1313,7 @@ msgstr "#1 (חלון אחד);#1 (#2 חלונות)"
 #: getUserMedia.shareSelectedDevices.label
 #: getUserMedia.shareSelectedDevices.accesskey
 msgid "&Share Selected Device;Share Selected Devices"
-msgstr ""
+msgstr "שיתוף ה&תקן נבחר;שיתוף התקנים נבחרים"
 
 #: getUserMedia.shareScreen.label
 msgid "Share Screen"
@@ -1354,20 +1331,17 @@ msgstr "שיתוף חלון נבחר"
 msgid "Share Selected Items"
 msgstr "שיתוף פריטים נבחרים"
 
-#: getUserMedia.always.label
-#: getUserMedia.always.accesskey
+#: getUserMedia.always.label getUserMedia.always.accesskey
 msgid "&Always Share"
-msgstr ""
+msgstr "לשתף  &תמיד"
 
-#: getUserMedia.denyRequest.label
-#: getUserMedia.denyRequest.accesskey
+#: getUserMedia.denyRequest.label getUserMedia.denyRequest.accesskey
 msgid "&Don't Share"
-msgstr ""
+msgstr "&לא לשתף"
 
-#: getUserMedia.never.label
-#: getUserMedia.never.accesskey
+#: getUserMedia.never.label getUserMedia.never.accesskey
 msgid "&Never Share"
-msgstr ""
+msgstr "ל&עולם לא לשתף"
 
 #: getUserMedia.sharingCamera.message2
 msgid "You are currently sharing your camera with this page."
@@ -1397,20 +1371,17 @@ msgstr "חלון כלשהו משותף כעת עם דף זה."
 msgid "You are currently sharing a tab with this page."
 msgstr "לשונית כלשהי משותפת כעת עם דף זה"
 
-#: getUserMedia.continueSharing.label
-#: getUserMedia.continueSharing.accesskey
+#: getUserMedia.continueSharing.label getUserMedia.continueSharing.accesskey
 msgid "&Continue Sharing"
-msgstr ""
+msgstr "&המשך שיתוף"
 
-#: getUserMedia.stopSharing.label
-#: getUserMedia.stopSharing.accesskey
+#: getUserMedia.stopSharing.label getUserMedia.stopSharing.accesskey
 msgid "&Stop Sharing"
-msgstr ""
+msgstr "ה&פסקת שיתוף"
 
-#: getUserMedia.sharingMenu.label
-#: getUserMedia.sharingMenu.accesskey
+#: getUserMedia.sharingMenu.label getUserMedia.sharingMenu.accesskey
 msgid "Tabs sharing &devices"
-msgstr ""
+msgstr "ה&תקנים לשיתוף לשוניות"
 
 #. # LOCALIZATION NOTE (getUserMedia.sharingMenuCamera
 #. #                    getUserMedia.sharingMenuMicrophone,
@@ -1526,7 +1497,7 @@ msgstr ""
 #: emeNotifications.drmContentPlaying.button.label
 #: emeNotifications.drmContentPlaying.button.accesskey
 msgid "&Configure…"
-msgstr ""
+msgstr "&הגדרה…"
 
 #. # LOCALIZATION NOTE(emeNotifications.drmContentDisabled.message): NB: inserted via innerHTML, so please don't use <, > or & in this string. %S will be the 'learn more' link
 #: emeNotifications.drmContentDisabled.message
@@ -1538,7 +1509,7 @@ msgstr ""
 #: emeNotifications.drmContentDisabled.button.label
 #: emeNotifications.drmContentDisabled.button.accesskey
 msgid "&Enable DRM"
-msgstr ""
+msgstr "הפעלת &ניהול זכויות דיגיטלי"
 
 #. # LOCALIZATION NOTE(emeNotifications.drmContentDisabled.learnMoreLabel): NB: inserted via innerHTML, so please don't use <, > or & in this string.
 #: emeNotifications.drmContentDisabled.learnMoreLabel
@@ -1599,9 +1570,10 @@ msgstr ""
 
 #: emeNotifications.optionsButton.label
 #: emeNotifications.optionsButton.accesskey
-msgctxt "emeNotifications.optionsButton.label emeNotifications.optionsButton.accesskey"
+msgctxt ""
+"emeNotifications.optionsButton.label emeNotifications.optionsButton.accesskey"
 msgid "&Options"
-msgstr ""
+msgstr "&אפשרויות"
 
 #: emeNotifications.unknownDRMSoftware
 msgctxt "emeNotifications.unknownDRMSoftware"
@@ -1613,25 +1585,23 @@ msgstr "לא ידוע"
 msgid "%S seems slow… to… start."
 msgstr "נראה כי %S עולה… לאט…"
 
-#: slowStartup.helpButton.label
-#: slowStartup.helpButton.accesskey
+#: slowStartup.helpButton.label slowStartup.helpButton.accesskey
 msgid "&Learn How to Speed It Up"
-msgstr ""
+msgstr "מידע על &שיפור ביצועים"
 
 #: slowStartup.disableNotificationButton.label
 #: slowStartup.disableNotificationButton.accesskey
 msgid "Don't Tell Me &Again"
-msgstr ""
+msgstr "לא לשאול &שוב"
 
 #. # LOCALIZATION NOTE  - %S is brandShortName
 #: flashHang.message
 msgid "%S changed some Adobe Flash settings to improve performance."
 msgstr "%S שינה מספר הגדרות של Adobe Flash כדי לשפר את הביצועים."
 
-#: flashHang.helpButton.label
-#: flashHang.helpButton.accesskey
+#: flashHang.helpButton.label flashHang.helpButton.accesskey
 msgid "&Learn More…"
-msgstr ""
+msgstr "&מידע נוסף…"
 
 #. # LOCALIZATION NOTE(customizeTips.tip0): %1$S will be replaced with the text defined
 #. # in customizeTips.tip0.hint, %2$S will be replaced with brandShortName, %3$S will
