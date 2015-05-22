@@ -1,19 +1,14 @@
-#. # This Source Code Form is subject to the terms of the Mozilla Public# License, v. 2.0. If a copy of the MPL was not distributed with this# file, You can obtain one at http://mozilla.org/MPL/2.0/.
-#. extracted from l10n/en-US/browser/chrome/browser/loop/loop.properties, l10n/he/browser/chrome/browser/loop/loop.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-22 22:32+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Shir Cohen <cohen.shir@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
-"X-Accelerator-Marker: &\n"
-"X-Merge-On: location\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. # Panel Strings
 #. ## LOCALIZATION NOTE(clientShortname2): This should not be localized and
@@ -123,7 +118,7 @@ msgstr "{{clientShortname2}} — הצטרפות לשיחה"
 #. ## {{title}} will be replaced with the title of an HTML document.
 #: share_email_subject_context
 msgid "{{clientShortname2}} conversation: {{title}}"
-msgstr ""
+msgstr "{{clientShortname2}} שיחה: {{title}}"
 
 #. ## LOCALIZATION NOTE (share_email_body4): In this item, don't translate the
 #. ## part between {{..}} and leave the \n\n part alone
@@ -182,29 +177,45 @@ msgid ""
 "\n"
 "Talk to you soon!"
 msgstr ""
+"שלום!\n"
+"\n"
+"הצטרפו אלי לשיחת וידיאו באמצעות {{clientShortname2}} אודות:\n"
+"{{title}}.\n"
+"\n"
+"זוהי הדרך הפשוטה ביותר לתקשר בוידיאו עם כל אדם בכל מקום.  עם "
+"{{clientSuperShortname}}, אין צורך להוריד או להתקין דבר. רק ללחוץ על הקישור "
+"או להעתיק אותו אל דפדפן {{brandShortname}}, Opera, או Chrome כדי להצטרף "
+"לשיחה:\n"
+"\n"
+"{{callUrl}}\n"
+"\n"
+"מידע נוסף על {{clientSuperShortname}} וכיצד להתחיל שיחת וידיאו משלך, ניתן "
+"למצוא כאן: {{learnMoreUrl}}\n"
+"\n"
+"מצפה לשמוע ממך בקרוב!"
 
 #. ## LOCALIZATION NOTE (share_tweeet): In this item, don't translate the part
 #. ## between {{..}}. Please keep the text below 117 characters to make sure it fits
 #. ## in a tweet.
 #: share_tweet
 msgid "Join me for a video conversation on {{clientShortname2}}!"
-msgstr ""
+msgstr "הצטרפו אלי לשיחת וידיאו על {{clientShortname2}}!"
 
 #: share_button3
 msgid "Share Link"
-msgstr ""
+msgstr "שיתוף קישור"
 
 #: share_add_service_button
 msgid "Add a Service"
-msgstr ""
+msgstr "הוספת שירות"
 
 #: add_to_toolbar_button
 msgid "Add the Share panel to my toolbar"
-msgstr ""
+msgstr "הוספת חלונית השיתוף אל סרגל הכלים"
 
 #: share_panel_header
 msgid "Share the web with your friends!"
-msgstr ""
+msgstr "שתפו את הרשת עם חבריכם!"
 
 #. ## LOCALIZATION NOTE (share_panel_body): In this item, don't translate the part
 #. ## between {{..}}.
@@ -213,6 +224,8 @@ msgid ""
 "{{brandShortname}}'s new Share panel allows you to quickly share links or "
 "{{clientSuperShortname}} invitations with your favourite social networks."
 msgstr ""
+"חלונית השיתוף החדשה של {{brandShortname}} מאפשרת לך לשתף בקלילות קישורים או "
+"הזמנות של {{clientSuperShortname}} עם הרשתות החברתיות המועדפות עליך."
 
 #: copy_url_button2
 msgctxt "copy_url_button2"
@@ -673,11 +686,6 @@ msgstr "הצהרת פרטיות"
 msgid "Powered by"
 msgstr "מופעל באמצעות"
 
-#: powered_by_afterLogo
-msgctxt "powered_by_afterLogo"
-msgid ""
-msgstr ""
-
 #: feedback_call_experience_heading2
 msgid "How was your conversation?"
 msgstr "איך לדעתך הייתה שיחה זו?"
@@ -864,7 +872,7 @@ msgstr "ל"
 #. # Context in conversation strings
 #: context_offer_label
 msgid "Let's talk about this page"
-msgstr ""
+msgstr "בואו נדבר על דף זה"
 
 #. # LOCALIZATION NOTE (context_inroom_label): this string is followed by the
 #. # title/URL of the website you are having a conversation about, displayed on a
@@ -873,19 +881,19 @@ msgstr ""
 #. # https://bug1115342.bugzilla.mozilla.org/attachment.cgi?id=8563677
 #: context_inroom_label
 msgid "Let's talk about:"
-msgstr ""
+msgstr "בואו נדבר על:"
 
 #. ## LOCALIZATION_NOTE (context_edit_activate_label): {{title}} will be replaced
 #. ## by the title of the active tab, also known as the title of an HTML document.
 #. ## The quotes around the title are intentional.
 #: context_edit_activate_label
 msgid "Talk about \"{{title}}\""
-msgstr ""
+msgstr "שיחה על \"{{title}}\""
 
 #: context_edit_name_placeholder
 msgid "Conversation Name"
-msgstr ""
+msgstr "שם השיחה"
 
 #: context_edit_comments_placeholder
 msgid "Comments"
-msgstr ""
+msgstr "תגובות"
