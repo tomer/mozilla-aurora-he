@@ -1,15 +1,16 @@
+#. extracted from l10n/en-US/browser/chrome/browser/preferences/fonts.dtd, l10n/he/browser/chrome/browser/preferences/fonts.dtd
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-22 22:32+0300\n"
-"PO-Revision-Date: 2015-05-23 00:36+0200\n"
-"Last-Translator: Shir Cohen <cohen.shir@gmail.com>\n"
+"POT-Creation-Date: 2015-05-23 21:12+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
 
@@ -20,7 +21,8 @@ msgstr ""
 msgid "Fonts"
 msgstr "גופנים"
 
-#: language.label language.accesskey
+#: language.label
+#: language.accesskey
 msgid "&Fonts for:"
 msgstr "גופ&נים עבור:"
 
@@ -36,19 +38,23 @@ msgstr "ג"
 msgid "e"
 msgstr "ד"
 
-#: proportional.label proportional.accesskey
+#: proportional.label
+#: proportional.accesskey
 msgid "&Proportional:"
 msgstr "י&חסי:"
 
-#: serif.label serif.accesskey
+#: serif.label
+#: serif.accesskey
 msgid "&Serif:"
 msgstr "&סריף:"
 
-#: sans-serif.label sans-serif.accesskey
+#: sans-serif.label
+#: sans-serif.accesskey
 msgid "Sa&ns-serif:"
 msgstr "סאן־ס&ריף:"
 
-#: monospace.label monospace.accesskey
+#: monospace.label
+#: monospace.accesskey
 msgid "&Monospace:"
 msgstr "רוח&ב קבוע:"
 
@@ -173,7 +179,8 @@ msgid "Tibetan"
 msgstr "טיבטית"
 
 #. Minimum font size
-#: minSize.label minSize.accesskey
+#: minSize.label
+#: minSize.accesskey
 msgid "Minimum f&ont size:"
 msgstr "גודל גו&פן מינימלי:"
 
@@ -190,7 +197,8 @@ msgstr "סריף"
 msgid "Sans Serif"
 msgstr "סאן־סריף"
 
-#: allowPagesToUse.label allowPagesToUse.accesskey
+#: allowPagesToUse.label
+#: allowPagesToUse.accesskey
 msgid "&Allow pages to choose their own fonts, instead of my selections above"
 msgstr "אפשר &לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה"
 
@@ -199,12 +207,9 @@ msgid "Text Encoding for Legacy Content"
 msgstr "קידוד טקסט לתוכן ישן"
 
 #: languages.customize.Fallback2.label
-msgid "Fallback Text Encoding:"
-msgstr "קידוד טקסט חלופי:"
-
 #: languages.customize.Fallback2.accesskey
-msgid "T"
-msgstr "ט"
+msgid "Fallback &Text Encoding:"
+msgstr "קידוד &טקסט חלופי:"
 
 #: languages.customize.Fallback2.desc
 msgid ""
